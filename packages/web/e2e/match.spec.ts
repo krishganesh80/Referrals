@@ -123,8 +123,10 @@ test("the highest-scoring record is not guaranteed to be first on the page", asy
   // Nothing on screen exposes a score, and the first card is whoever sorts first alphabetically
   // inside the closest-matching group. This asserts the page never advertises a top result.
   await expect(page.locator(".rank")).toHaveCount(0);
-  await expect(page.getByText(/best match/i)).toHaveCount(0);
-  await expect(page.getByText(/top (result|match)/i)).toHaveCount(0);
+  // The assertion is that this wording is ABSENT from the page. Naming the banned phrase is the
+  // only way to prove it never appears.
+  // lint-allow-language: quoted in order to be forbidden
+  await expect(page.getByText(/best match|top result|top match/i)).toHaveCount(0);
 });
 
 test("the reasons block does not claim the position means anything", async ({ page }) => {

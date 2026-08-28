@@ -7,7 +7,9 @@
 // "recommended for you" and the thing is a medical device.
 //
 // A line that genuinely needs a banned word — this file, and any deliberate quotation of the
-// rule — carries `lint-allow-language` and a reason.
+// rule — carries `lint-allow-language` and a reason, either on the line itself or on the line
+// immediately above it. Above is usually right: an exemption that needs explaining needs more
+// room than the end of the line it is exempting.
 
 import { readdirSync, readFileSync, statSync } from "node:fs";
 import { extname, join, relative } from "node:path";
@@ -43,7 +45,10 @@ describe("the language rule", () => {
       if (file === fileURLToPath(import.meta.url)) continue;
       const lines = readFileSync(file, "utf8").split("\n");
       lines.forEach((line, index) => {
-        if (line.includes("lint-allow-language")) return;
+        const exempt =
+          line.includes("lint-allow-language") ||
+          (lines[index - 1]?.includes("lint-allow-language") ?? false);
+        if (exempt) return;
         for (const word of BANNED) {
           if (new RegExp(`\\b${word}`, "i").test(line)) {
             offences.push(`${relative(ROOT, file)}:${index + 1}  ${word}  ${line.trim().slice(0, 90)}`);
