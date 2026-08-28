@@ -1,0 +1,137 @@
+criteria: {"region":"shoulder","category":"joint_replacement","payer":null,"postcode":"3000","maxTravelKm":40,"sector":"either","fund":"Bupa"}
+origin:   -37.8136, 144.9631
+results:  22 of 50
+
+ 1. Verity Dunmore-Ashby  [MED1000003836]  score 88.301
+      - Shoulder & Elbow Society of Australia member (verified)
+      - No-gap with Bupa — from fund directory
+      - Books open — confirmed 8 weeks ago
+      - Wait to consult 11 weeks — from booking platform, last updated 10 days ago
+      - 6.4 km from patient postcode
+ 2. Wilhelmina Vasterling-Ashby  [MED1000006302]  score 77.671
+      - Shoulder & Elbow Society of Australia member (verified)
+      - No-gap with Bupa — from fund directory
+      - Books closed — confirmed 5 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 3.8 km from patient postcode
+ 3. Farrukh Pemberley-Ashby  [MED1000005480]  score 74.714
+      - Shoulder & Elbow Society of Australia member (verified)
+      - No-gap with Bupa not listed
+      - Books open — confirmed 8 weeks ago
+      - Wait to consult 13 weeks — from booking platform, last updated 2 weeks ago
+      - 1.7 km from patient postcode
+ 4. Tamsin Ravensmoor-Ashby  [MED1000005754]  score 70.975
+      - 7 shoulder publications indexed since registration (inferred)
+      - No-gap with Bupa — from fund directory
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 8 weeks — from booking platform, last updated 2 weeks ago
+      - 13.2 km from patient postcode
+ 5. Xavier Oakhampton-Ashby  [MED1000005343]  score 59.091
+      - Shoulder & Elbow Society of Australia member (verified)
+      - No-gap with Bupa not listed
+      - Books closed — confirmed 3 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 12 days ago
+      - 12.0 km from patient postcode
+ 6. Keiko Fairweather-Ashby  [MED1000004110]  score 55.663
+      - Listed on practice website (from practice website)
+      - No-gap with Bupa — from fund directory
+      - Books open — confirmed 3 weeks ago
+      - Wait to consult 5 weeks — from booking platform, last updated 3 weeks ago
+      - 18.3 km from patient postcode
+ 7. Desmond Ellingham  [MED1000000548]  score 52.363
+      - No sub-specialty confirmed
+      - No-gap with Bupa — from fund directory
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 6.1 km from patient postcode
+ 8. Desmond Ellingham-Ashby  [MED1000003973]  score 48.002
+      - 7 shoulder publications indexed since registration (inferred)
+      - No-gap with Bupa not listed
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 8.5 km from patient postcode
+ 9. Jonas Marchbanks-Ashby  [MED1000005069]  score 46.813
+      - No sub-specialty confirmed
+      - No-gap with Bupa — from fund directory
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 5 weeks ago
+      - 3.0 km from patient postcode
+      - Public clinic wait at Werribee Plains Public Hospital 6 months — published department figure, not this surgeon's own, last updated 7 weeks ago
+10. Bernard Stanhope-Ashby  [MED1000005891]  score 43.142
+      - No sub-specialty confirmed
+      - No-gap with Bupa — from fund directory
+      - Books open — confirmed 9 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 14.2 km from patient postcode
+11. Sunil Zephyrhill  [MED1000003288]  score 41.653
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 7 weeks — from booking platform, last updated 3 weeks ago
+      - 12.2 km from patient postcode
+12. Farrukh Pemberley  [MED1000002055]  score 41.318
+      - No sub-specialty confirmed
+      - No-gap with Bupa — from fund directory
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+      - 15.1 km from patient postcode
+13. Nikolai Jarrowfield  [MED1000001233]  score 38.181
+      - Listed on practice website (from practice website)
+      - No-gap with Bupa not listed
+      - Books open — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 5 days ago
+      - 13.6 km from patient postcode
+14. Greta Ingleby  [MED1000001096]  score 37.724
+      - No sub-specialty confirmed
+      - No-gap with Bupa — from fund directory
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 5 weeks ago
+      - 18.6 km from patient postcode
+15. Quentin Netherfield-Ashby  [MED1000005206]  score 32.325
+      - No sub-specialty confirmed
+      - No-gap with Bupa — from fund directory
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 21.9 km from patient postcode
+16. Ulrich Kestrelton  [MED1000001370]  score 31.194
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books closed — confirmed today
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 16.4 km from patient postcode
+17. Priya Underhill  [MED1000002740]  score 29.724
+      - No sub-specialty confirmed
+      - No-gap with Bupa not listed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 7 days ago
+      - 8.4 km from patient postcode
+18. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 28.616
+      - No sub-specialty confirmed
+      - No-gap with Bupa not listed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 9.6 km from patient postcode
+19. Orla Cadwallader-Ashby  [MED1000003699]  score 28.373
+      - No sub-specialty confirmed
+      - No-gap with Bupa not listed
+      - Books-open status not confirmed
+      - Wait to consult 5 weeks — from booking platform, last updated 7 days ago
+      - 16.8 km from patient postcode
+20. Hamish Bramwell-Ashby  [MED1000003562]  score 26.264
+      - No sub-specialty confirmed
+      - No-gap with Bupa not listed
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 7.3 km from patient postcode
+21. Xavier Oakhampton  [MED1000001918]  score 25.051
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 16.9 km from patient postcode
+22. Elena Wintersgill  [MED1000003014]  score 17.886
+      - No sub-specialty confirmed
+      - No-gap with Bupa not listed
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 15.0 km from patient postcode

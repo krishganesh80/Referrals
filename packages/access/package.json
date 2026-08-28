@@ -1,0 +1,10 @@
+{
+  "name": "@referral/access",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Access-data subsystem: collectors, priority queue, verification CLI, discrepancy detector.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": { "@referral/core": "workspace:*", "@referral/signals": "workspace:*", "zod": "^3.24.1" }
+}

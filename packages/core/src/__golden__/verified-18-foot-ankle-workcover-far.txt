@@ -1,0 +1,107 @@
+criteria: {"region":"foot_ankle","category":"sports_soft_tissue","payer":"workcover","postcode":"3806","maxTravelKm":60,"sector":"either","fund":null}
+origin:   -38.0353, 145.3444
+results:  17 of 50
+
+ 1. Mira Quillfeather  [MED1000002192]  score 86.255
+      - Australian Foot & Ankle Society member (verified)
+      - Accepts WorkCover — confirmed 12 months ago
+      - Books open — confirmed 2 weeks ago
+      - Wait to consult not confirmed
+      - 18.0 km from patient postcode
+ 2. Mira Quillfeather-Ashby  [MED1000005617]  score 82.046
+      - Australian Foot & Ankle Society member (verified)
+      - Accepts WorkCover — confirmed 3 weeks ago
+      - Books-open status not confirmed
+      - Wait to consult 6 weeks — from booking platform, last updated 3 weeks ago
+      - 56.1 km from patient postcode
+ 3. Orla Cadwallader  [MED1000000274]  score 78.253
+      - Australian Foot & Ankle Society member (verified)
+      - Accepts WorkCover — confirmed 13 months ago
+      - Books-open status not confirmed
+      - Wait to consult 6 weeks — from booking platform, last updated 2 months ago
+      - 31.1 km from patient postcode
+ 4. Quentin Netherfield  [MED1000001781]  score 71.796
+      - Credentialed for foot & ankle surgery at a listed hospital (inferred)
+      - Accepts WorkCover — confirmed 5 months ago
+      - Books-open status not confirmed
+      - Wait to consult 10 days — from booking platform, last updated 3 weeks ago
+      - 47.6 km from patient postcode
+ 5. Wilhelmina Vasterling  [MED1000002877]  score 71.793
+      - Australian Foot & Ankle Society member (verified)
+      - WorkCover status not confirmed
+      - Books closed — confirmed 10 days ago
+      - Wait to consult 8 weeks — from booking platform, last updated today
+      - 30.1 km from patient postcode
+ 6. Verity Dunmore-Ashby  [MED1000003836]  score 59.783
+      - Listed on practice website (from practice website)
+      - Accepts WorkCover — confirmed 5 months ago
+      - Books open — confirmed 8 weeks ago
+      - Wait to consult 11 weeks — from booking platform, last updated 10 days ago
+      - 35.2 km from patient postcode
+ 7. Lachlan Yarrowmede  [MED1000003151]  score 55.589
+      - Listed on practice website (from practice website)
+      - Accepts WorkCover — confirmed 5 months ago
+      - Books-open status not confirmed
+      - Wait to consult 9 weeks — from booking platform, last updated 2 months ago
+      - 35.1 km from patient postcode
+ 8. Priya Underhill  [MED1000002740]  score 47.689
+      - No sub-specialty confirmed
+      - Accepts WorkCover — confirmed 2 weeks ago
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 7 days ago
+      - 33.7 km from patient postcode
+ 9. Farrukh Pemberley  [MED1000002055]  score 44.942
+      - No sub-specialty confirmed
+      - Accepts WorkCover — confirmed 9 months ago
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+      - 26.8 km from patient postcode
+10. Ulrich Kestrelton  [MED1000001370]  score 42.508
+      - No sub-specialty confirmed
+      - Accepts WorkCover — confirmed 5 months ago
+      - Books closed — confirmed today
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 45.5 km from patient postcode
+11. Orla Cadwallader-Ashby  [MED1000003699]  score 39.630
+      - No sub-specialty confirmed
+      - Accepts WorkCover — confirmed 9 months ago
+      - Books-open status not confirmed
+      - Wait to consult 5 weeks — from booking platform, last updated 7 days ago
+      - 51.4 km from patient postcode
+12. Desmond Ellingham  [MED1000000548]  score 39.181
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 37.5 km from patient postcode
+13. Elena Wintersgill  [MED1000003014]  score 38.437
+      - No sub-specialty confirmed
+      - Accepts WorkCover — confirmed 13 months ago
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 5.9 km from patient postcode
+      - Public clinic wait at Fitzroy North Public Hospital 3 months — published department figure, not this surgeon's own, last updated 4 months ago
+14. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 38.286
+      - No sub-specialty confirmed
+      - Accepts WorkCover — confirmed 10 months ago
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 45.4 km from patient postcode
+15. Jonas Marchbanks-Ashby  [MED1000005069]  score 30.952
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 5 weeks ago
+      - 40.9 km from patient postcode
+16. Xavier Oakhampton  [MED1000001918]  score 29.257
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 26.2 km from patient postcode
+17. Quentin Netherfield-Ashby  [MED1000005206]  score 21.772
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 53.2 km from patient postcode

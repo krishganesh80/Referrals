@@ -1,22 +1,21 @@
 {
+  "extends": "./tsconfig.base.json",
   "compilerOptions": {
-    "target": "ES2022",
-    "lib": ["dom", "dom.iterable", "esnext"],
-    "allowJs": true,
-    "skipLibCheck": true,
-    "strict": true,
-    "noUncheckedIndexedAccess": true,
-    "noEmit": true,
-    "esModuleInterop": true,
-    "module": "esnext",
-    "moduleResolution": "bundler",
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "jsx": "preserve",
-    "incremental": true,
-    "plugins": [{ "name": "next" }],
-    "paths": { "@/*": ["./*"] }
+    "types": ["node"],
+    "baseUrl": ".",
+    "paths": {
+      "@referral/core": ["packages/core/src/index.ts"],
+      "@referral/core/*": ["packages/core/src/*"],
+      "@referral/access": ["packages/access/src/index.ts"],
+      "@referral/access/*": ["packages/access/src/*"],
+      "@referral/ingest": ["packages/ingest/src/index.ts"],
+      "@referral/ingest/*": ["packages/ingest/src/*"],
+      "@referral/bundle": ["packages/bundle/src/index.ts"],
+      "@referral/bundle/*": ["packages/bundle/src/*"],
+      "@referral/signals": ["packages/signals/src/index.ts"],
+      "@referral/signals/*": ["packages/signals/src/*"]
+    }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
-  "exclude": ["node_modules"]
+  "include": ["packages/*/src/**/*.ts", "tools/**/*.ts", "vitest.config.ts"],
+  "exclude": ["packages/web/**"]
 }

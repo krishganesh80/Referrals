@@ -1,0 +1,44 @@
+criteria: {"region":"general","category":"unspecified","payer":null,"postcode":"3144","maxTravelKm":8,"sector":"either","fund":null}
+origin:   -37.8599, 145.0273
+results:  8 of 50
+
+ 1. Orla Cadwallader-Ashby  [MED1000003699]  score 42.055
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 3.5 km from patient postcode
+ 2. Tamsin Ravensmoor  [MED1000002329]  score 39.121
+      - Australian Sarcoma Group affiliation (verified)
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 8 weeks ago
+      - 5.7 km from patient postcode
+ 3. Mira Quillfeather  [MED1000002192]  score 38.747
+      - Paediatric Orthopaedic Society of Australia member (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 4.8 km from patient postcode
+ 4. Verity Dunmore-Ashby  [MED1000003836]  score 24.395
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 0.9 km from patient postcode
+ 5. Alice Aldergrove  [MED1000000000]  score 23.420
+      - Listed on practice website (from practice website)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 5.3 km from patient postcode
+ 6. Elena Wintersgill  [MED1000003014]  score 23.217
+      - 6 sarcoma publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 7.2 km from patient postcode
+ 7. Clara Lampeter  [MED1000001507]  score 23.209
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 7.2 km from patient postcode
+ 8. Keiko Fairweather  [MED1000000685]  score 10.027
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 6.7 km from patient postcode

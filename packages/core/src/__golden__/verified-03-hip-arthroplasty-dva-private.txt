@@ -1,0 +1,89 @@
+criteria: {"region":"hip","category":"joint_replacement","payer":"dva","postcode":"3144","maxTravelKm":30,"sector":"private","fund":null}
+origin:   -37.8599, 145.0273
+results:  12 of 50
+
+ 1. Ingrid Thackeray  [MED1000002603]  score 79.194
+      - Arthroplasty Society of Australia member (verified)
+      - DVA status not confirmed
+      - Books closed — confirmed 5 weeks ago
+      - Wait to consult 7 weeks — from booking platform, last updated 8 weeks ago
+      - 16.1 km from patient postcode
+      - Consults in the private sector
+ 2. Sunil Zephyrhill  [MED1000003288]  score 59.129
+      - No sub-specialty confirmed
+      - DVA status not confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 7 weeks — from booking platform, last updated 3 weeks ago
+      - 4.7 km from patient postcode
+      - Consults in the private sector
+ 3. Farrukh Pemberley  [MED1000002055]  score 58.871
+      - No sub-specialty confirmed
+      - Accepts DVA — confirmed 7 months ago
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+      - 7.5 km from patient postcode
+      - Consults in the private sector
+ 4. Orla Cadwallader-Ashby  [MED1000003699]  score 57.912
+      - No sub-specialty confirmed
+      - Accepts DVA — confirmed 3 weeks ago
+      - Books-open status not confirmed
+      - Wait to consult 5 weeks — from booking platform, last updated 7 days ago
+      - 20.8 km from patient postcode
+      - Consults in the private sector
+ 5. Desmond Ellingham  [MED1000000548]  score 57.642
+      - No sub-specialty confirmed
+      - DVA status not confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 6.0 km from patient postcode
+      - Consults in the private sector
+ 6. Keiko Fairweather-Ashby  [MED1000004110]  score 57.298
+      - Listed on practice website (from practice website)
+      - DVA status not confirmed
+      - Books open — confirmed 3 weeks ago
+      - Wait to consult 5 weeks — from booking platform, last updated 3 weeks ago
+      - 20.7 km from patient postcode
+      - Consults in the private sector
+ 7. Jonas Marchbanks-Ashby  [MED1000005069]  score 56.777
+      - No sub-specialty confirmed
+      - Accepts DVA — confirmed 6 months ago
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 5 weeks ago
+      - 9.8 km from patient postcode
+      - Consults in the private sector
+      - Public clinic wait at Werribee Plains Public Hospital 6 months — published department figure, not this surgeon's own, last updated 7 weeks ago
+ 8. Bernard Stanhope-Ashby  [MED1000005891]  score 56.025
+      - No sub-specialty confirmed
+      - Accepts DVA — confirmed 3 months ago
+      - Books open — confirmed 9 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 21.3 km from patient postcode
+      - Consults in the private sector
+ 9. Hamish Bramwell-Ashby  [MED1000003562]  score 53.441
+      - No sub-specialty confirmed
+      - Accepts DVA — confirmed 9 months ago
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 9.7 km from patient postcode
+      - Consults in the private sector
+10. Greta Ingleby  [MED1000001096]  score 50.676
+      - No sub-specialty confirmed
+      - Accepts DVA — confirmed 2 months ago
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 5 weeks ago
+      - 24.5 km from patient postcode
+      - Consults in the private sector
+11. Ulrich Kestrelton  [MED1000001370]  score 41.134
+      - No sub-specialty confirmed
+      - DVA status not confirmed
+      - Books closed — confirmed today
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 19.2 km from patient postcode
+      - Consults in the private sector
+12. Quentin Netherfield-Ashby  [MED1000005206]  score 38.689
+      - No sub-specialty confirmed
+      - Accepts DVA — confirmed 7 months ago
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 29.3 km from patient postcode
+      - Consults in the private sector

@@ -1,0 +1,100 @@
+criteria: {"region":"knee","category":"sports_soft_tissue","payer":"workcover","postcode":"3000","maxTravelKm":25,"sector":"either","fund":null}
+origin:   -37.8136, 144.9631
+results:  16 of 50
+
+ 1. Xavier Oakhampton  [MED1000001918]  score 71.317
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Accepts WorkCover — confirmed 4 months ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 5.5 km from patient postcode
+ 2. Hamish Bramwell  [MED1000000137]  score 66.233
+      - Australian Knee Society member (verified)
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 14.7 km from patient postcode
+ 3. Yusuf Harkaway  [MED1000000959]  score 53.486
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Accepts WorkCover — confirmed 14 months ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.3 km from patient postcode
+ 4. Mira Quillfeather  [MED1000002192]  score 52.871
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 11.4 km from patient postcode
+ 5. Clara Lampeter-Ashby  [MED1000004932]  score 52.320
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 12.1 km from patient postcode
+ 6. Greta Ingleby-Ashby  [MED1000004521]  score 43.628
+      - No sub-specialty confirmed
+      - Accepts WorkCover — confirmed 8 weeks ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.2 km from patient postcode
+ 7. Sunil Zephyrhill  [MED1000003288]  score 42.956
+      - Listed on practice website (from practice website)
+      - WorkCover status not confirmed
+      - Books open — confirmed 10 days ago
+      - Wait to consult not confirmed
+      - 13.2 km from patient postcode
+ 8. Keiko Fairweather  [MED1000000685]  score 40.561
+      - No sub-specialty confirmed
+      - Accepts WorkCover — confirmed 11 months ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 7.7 km from patient postcode
+ 9. Ulrich Kestrelton-Ashby  [MED1000004795]  score 32.465
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 6.9 km from patient postcode
+10. Verity Dunmore-Ashby  [MED1000003836]  score 31.517
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.1 km from patient postcode
+11. Rosalind Gainsborough-Ashby  [MED1000004247]  score 29.979
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.0 km from patient postcode
+12. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 27.630
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 16.0 km from patient postcode
+13. Ulrich Kestrelton  [MED1000001370]  score 27.516
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.1 km from patient postcode
+14. Sunil Zephyrhill-Ashby  [MED1000006713]  score 26.921
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 19.2 km from patient postcode
+15. Desmond Ellingham-Ashby  [MED1000003973]  score 25.562
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.5 km from patient postcode
+16. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 22.456
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.4 km from patient postcode

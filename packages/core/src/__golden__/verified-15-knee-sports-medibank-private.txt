@@ -1,0 +1,152 @@
+criteria: {"region":"knee","category":"sports_soft_tissue","payer":null,"postcode":"3128","maxTravelKm":30,"sector":"private","fund":"Medibank"}
+origin:   -37.8195, 145.1234
+results:  21 of 50
+
+ 1. Yusuf Harkaway-Ashby  [MED1000004384]  score 77.020
+      - Australian Knee Society member (verified)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 9.7 km from patient postcode
+      - Consults in the private sector
+ 2. Clara Lampeter-Ashby  [MED1000004932]  score 73.710
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - No-gap with Medibank — from fund directory
+      - Books-open status not confirmed
+      - Wait to consult 8 weeks — from booking platform, last updated 4 weeks ago
+      - 12.3 km from patient postcode
+      - Consults in the private sector
+ 3. Rosalind Gainsborough-Ashby  [MED1000004247]  score 69.047
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - No-gap with Medibank — from fund directory
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 6 weeks ago
+      - 8.8 km from patient postcode
+      - Consults in the private sector
+ 4. Ulrich Kestrelton-Ashby  [MED1000004795]  score 68.629
+      - Australian Knee Society member (verified)
+      - No-gap fund participation not confirmed
+      - Books closed — confirmed 2 weeks ago
+      - Wait to consult not confirmed
+      - 15.6 km from patient postcode
+      - Consults in the private sector
+ 5. Orla Cadwallader  [MED1000000274]  score 64.222
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - No-gap with Medibank not listed
+      - Books-open status not confirmed
+      - Wait to consult 6 weeks — from booking platform, last updated 2 months ago
+      - 5.1 km from patient postcode
+      - Consults in the private sector
+ 6. Keiko Fairweather  [MED1000000685]  score 61.131
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - No-gap with Medibank not listed
+      - Books open — confirmed 5 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 weeks ago
+      - 11.6 km from patient postcode
+      - Consults in the private sector
+ 7. Farrukh Pemberley  [MED1000002055]  score 51.657
+      - No sub-specialty confirmed
+      - No-gap with Medibank — from fund directory
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+      - 10.8 km from patient postcode
+      - Consults in the private sector
+ 8. Sunil Zephyrhill  [MED1000003288]  score 50.801
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 7 weeks — from booking platform, last updated 3 weeks ago
+      - 10.4 km from patient postcode
+      - Consults in the private sector
+ 9. Jonas Marchbanks-Ashby  [MED1000005069]  score 48.746
+      - No sub-specialty confirmed
+      - No-gap with Medibank — from fund directory
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 5 weeks ago
+      - 14.4 km from patient postcode
+      - Consults in the private sector
+      - Public clinic wait at Werribee Plains Public Hospital 6 months — published department figure, not this surgeon's own, last updated 7 weeks ago
+10. Alice Aldergrove  [MED1000000000]  score 48.255
+      - Listed on practice website (from practice website)
+      - No-gap with Medibank not listed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 8 weeks — from booking platform, last updated 2 months ago
+      - 0.2 km from patient postcode
+      - Consults in the private sector
+11. Desmond Ellingham  [MED1000000548]  score 44.962
+      - No sub-specialty confirmed
+      - No-gap with Medibank not listed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 8.2 km from patient postcode
+      - Consults in the private sector
+12. Bernard Stanhope-Ashby  [MED1000005891]  score 41.507
+      - No sub-specialty confirmed
+      - No-gap with Medibank — from fund directory
+      - Books open — confirmed 9 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 28.1 km from patient postcode
+      - Consults in the private sector
+13. Greta Ingleby  [MED1000001096]  score 40.928
+      - No sub-specialty confirmed
+      - No-gap with Medibank — from fund directory
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 5 weeks ago
+      - 24.2 km from patient postcode
+      - Consults in the private sector
+14. Priya Underhill  [MED1000002740]  score 39.629
+      - No sub-specialty confirmed
+      - No-gap with Medibank not listed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 7 days ago
+      - 6.4 km from patient postcode
+      - Consults in the private sector
+15. Ulrich Kestrelton  [MED1000001370]  score 39.268
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books closed — confirmed today
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 15.2 km from patient postcode
+      - Consults in the private sector
+16. Mira Quillfeather-Ashby  [MED1000005617]  score 38.506
+      - Listed on practice website (from practice website)
+      - No-gap with Medibank not listed
+      - Books-open status not confirmed
+      - Wait to consult 6 weeks — from booking platform, last updated 3 weeks ago
+      - 25.9 km from patient postcode
+      - Consults in the private sector
+17. Xavier Oakhampton  [MED1000001918]  score 34.088
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 14.1 km from patient postcode
+      - Consults in the private sector
+18. Elena Wintersgill  [MED1000003014]  score 28.591
+      - No sub-specialty confirmed
+      - No-gap with Medibank not listed
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 10.2 km from patient postcode
+      - Consults in the private sector
+19. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 28.471
+      - No sub-specialty confirmed
+      - No-gap with Medibank not listed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 22.4 km from patient postcode
+      - Consults in the private sector
+20. Hamish Bramwell-Ashby  [MED1000003562]  score 27.312
+      - No sub-specialty confirmed
+      - No-gap with Medibank not listed
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 18.9 km from patient postcode
+      - Consults in the private sector
+21. Orla Cadwallader-Ashby  [MED1000003699]  score 26.845
+      - No sub-specialty confirmed
+      - No-gap with Medibank not listed
+      - Books-open status not confirmed
+      - Wait to consult 5 weeks — from booking platform, last updated 7 days ago
+      - 29.9 km from patient postcode
+      - Consults in the private sector

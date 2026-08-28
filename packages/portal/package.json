@@ -1,0 +1,7 @@
+{
+  "name": "@referral/portal",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Not implemented in phase one. Separate deployment; shares no database with the others."
+}

@@ -8,26 +8,27 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  verify:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
       - uses: pnpm/action-setup@v4
         with:
-          version: 9
+          version: 10
 
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: pnpm
 
-      # --no-frozen-lockfile only because the lockfile is committed alongside this
-      # workflow in the same first commit; switch to --frozen-lockfile after that lands.
-      - run: pnpm install --no-frozen-lockfile
+      - run: pnpm install --frozen-lockfile
 
       - name: Typecheck
         run: pnpm typecheck
 
-      - name: Build
-        run: pnpm build
+      # The golden files are the regression net for the whole product: exact ordering and exact
+      # reason strings over 20 criteria sets against both a verified-shaped directory and an
+      # 80%-unknown one. A wording change is a product change and has to show up in a diff.
+      - name: Test
+        run: pnpm test

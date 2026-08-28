@@ -1,0 +1,96 @@
+criteria: {"region":"foot_ankle","category":"sports_soft_tissue","payer":"workcover","postcode":"3806","maxTravelKm":60,"sector":"either","fund":null}
+origin:   -38.0353, 145.3444
+results:  15 of 50
+
+ 1. Alice Aldergrove-Ashby  [MED1000003425]  score 76.519
+      - Australian Foot & Ankle Society member (verified)
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 11 days — from booking platform, last updated 5 weeks ago
+      - 31.5 km from patient postcode
+ 2. Farrukh Pemberley  [MED1000002055]  score 69.054
+      - Australian Foot & Ankle Society member (verified)
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 26.8 km from patient postcode
+ 3. Jonas Marchbanks  [MED1000001644]  score 68.943
+      - Australian Foot & Ankle Society member (verified)
+      - Accepts WorkCover — confirmed 12 months ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 53.4 km from patient postcode
+ 4. Hamish Bramwell-Ashby  [MED1000003562]  score 57.801
+      - Credentialed for foot & ankle surgery at a listed hospital (inferred)
+      - WorkCover status not confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult not confirmed
+      - 23.1 km from patient postcode
+ 5. Alice Aldergrove  [MED1000000000]  score 45.164
+      - Listed on practice website (from practice website)
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.5 km from patient postcode
+ 6. Greta Ingleby-Ashby  [MED1000004521]  score 44.681
+      - No sub-specialty confirmed
+      - Accepts WorkCover — confirmed 8 weeks ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 21.2 km from patient postcode
+      - Public clinic wait at Cardinia Public Hospital 8 months — published department figure, not this surgeon's own, last updated 6 days ago
+ 7. Keiko Fairweather  [MED1000000685]  score 34.562
+      - No sub-specialty confirmed
+      - Accepts WorkCover — confirmed 11 months ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 36.6 km from patient postcode
+ 8. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 29.776
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 31.9 km from patient postcode
+ 9. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 28.112
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 29.7 km from patient postcode
+10. Rosalind Gainsborough-Ashby  [MED1000004247]  score 27.420
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 31.7 km from patient postcode
+      - Public clinic wait at Werribee Plains Public Hospital 7 months — published department figure, not this surgeon's own, last updated 6 weeks ago
+11. Verity Dunmore-Ashby  [MED1000003836]  score 26.780
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 33.7 km from patient postcode
+12. Sunil Zephyrhill-Ashby  [MED1000006713]  score 25.207
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 51.1 km from patient postcode
+13. Ulrich Kestrelton  [MED1000001370]  score 23.718
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 42.8 km from patient postcode
+14. Ulrich Kestrelton-Ashby  [MED1000004795]  score 22.269
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 47.2 km from patient postcode
+15. Desmond Ellingham-Ashby  [MED1000003973]  score 19.294
+      - No sub-specialty confirmed
+      - WorkCover status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 56.1 km from patient postcode

@@ -1,0 +1,79 @@
+criteria: {"region":"general","category":"unspecified","payer":null,"postcode":"3144","maxTravelKm":8,"sector":"either","fund":null}
+origin:   -37.8599, 145.0273
+results:  15 of 50
+
+ 1. Verity Dunmore-Ashby  [MED1000003836]  score 56.858
+      - Shoulder & Elbow Society of Australia member (verified)
+      - Books open — confirmed 8 weeks ago
+      - Wait to consult 11 weeks — from booking platform, last updated 10 days ago
+      - 1.5 km from patient postcode
+ 2. Ingrid Thackeray-Ashby  [MED1000006028]  score 53.733
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - Books open — confirmed today
+      - Wait to consult 6 weeks — from booking platform, last updated 7 weeks ago
+      - 3.8 km from patient postcode
+ 3. Farrukh Pemberley-Ashby  [MED1000005480]  score 44.842
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - Books open — confirmed 8 weeks ago
+      - Wait to consult 13 weeks — from booking platform, last updated 2 weeks ago
+      - 5.9 km from patient postcode
+ 4. Orla Cadwallader  [MED1000000274]  score 43.882
+      - Australian Foot & Ankle Society member (verified)
+      - Books-open status not confirmed
+      - Wait to consult 6 weeks — from booking platform, last updated 2 months ago
+      - 5.5 km from patient postcode
+ 5. Yusuf Harkaway-Ashby  [MED1000004384]  score 42.868
+      - Australian Knee Society member (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 3.2 km from patient postcode
+ 6. Wilhelmina Vasterling-Ashby  [MED1000006302]  score 38.565
+      - Australian Hand Surgery Society member (verified)
+      - Books closed — confirmed 5 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 4.0 km from patient postcode
+ 7. Jonas Marchbanks  [MED1000001644]  score 36.465
+      - Paediatric Orthopaedic Society of Australia member (verified)
+      - Books closed — confirmed 5 weeks ago
+      - Wait to consult not confirmed
+      - 3.9 km from patient postcode
+ 8. Bernard Stanhope  [MED1000002466]  score 32.006
+      - 6 sarcoma publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 5.1 km from patient postcode
+ 9. Clara Lampeter-Ashby  [MED1000004932]  score 31.985
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult 8 weeks — from booking platform, last updated 4 weeks ago
+      - 6.1 km from patient postcode
+10. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 31.474
+      - Credentialed for hand surgery at two listed hospitals (inferred)
+      - Books open — confirmed 3 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 7 weeks ago
+      - 6.3 km from patient postcode
+11. Sunil Zephyrhill  [MED1000003288]  score 29.296
+      - No sub-specialty confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 7 weeks — from booking platform, last updated 3 weeks ago
+      - 4.7 km from patient postcode
+12. Priya Underhill  [MED1000002740]  score 25.368
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 7 days ago
+      - 3.4 km from patient postcode
+13. Desmond Ellingham  [MED1000000548]  score 25.325
+      - No sub-specialty confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 6.0 km from patient postcode
+14. Farrukh Pemberley  [MED1000002055]  score 15.132
+      - No sub-specialty confirmed
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+      - 7.5 km from patient postcode
+15. Elena Wintersgill  [MED1000003014]  score 6.907
+      - No sub-specialty confirmed
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 7.4 km from patient postcode

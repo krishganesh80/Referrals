@@ -1,0 +1,10 @@
+{
+  "name": "@referral/ingest",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Identity source adapters, legal gate, reconciliation, review queue.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": { "@referral/core": "workspace:*", "zod": "^3.24.1" }
+}

@@ -1,0 +1,53 @@
+criteria: {"region":"shoulder","category":"sports_soft_tissue","payer":"tac","postcode":"3121","maxTravelKm":40,"sector":"either","fund":null}
+origin:   -37.8226, 144.9975
+results:  8 of 50
+
+ 1. Verity Dunmore-Ashby  [MED1000003836]  score 94.748
+      - Shoulder & Elbow Society of Australia member (verified)
+      - Accepts TAC — confirmed 8 months ago
+      - Books open — confirmed 8 weeks ago
+      - Wait to consult 11 weeks — from booking platform, last updated 10 days ago
+      - 3.5 km from patient postcode
+ 2. Wilhelmina Vasterling-Ashby  [MED1000006302]  score 74.673
+      - Shoulder & Elbow Society of Australia member (verified)
+      - TAC status not confirmed
+      - Books closed — confirmed 5 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 2.3 km from patient postcode
+ 3. Desmond Ellingham  [MED1000000548]  score 58.639
+      - No sub-specialty confirmed
+      - Accepts TAC — confirmed 12 months ago
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 3.6 km from patient postcode
+ 4. Priya Underhill  [MED1000002740]  score 56.315
+      - No sub-specialty confirmed
+      - Accepts TAC — confirmed 7 weeks ago
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 7 days ago
+      - 5.2 km from patient postcode
+ 5. Farrukh Pemberley  [MED1000002055]  score 52.682
+      - No sub-specialty confirmed
+      - Accepts TAC — confirmed 4 weeks ago
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+      - 12.4 km from patient postcode
+ 6. Jonas Marchbanks-Ashby  [MED1000005069]  score 42.117
+      - No sub-specialty confirmed
+      - TAC status not confirmed
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 5 weeks ago
+      - 4.9 km from patient postcode
+      - Public clinic wait at Werribee Plains Public Hospital 6 months — published department figure, not this surgeon's own, last updated 7 weeks ago
+ 7. Quentin Netherfield-Ashby  [MED1000005206]  score 36.016
+      - No sub-specialty confirmed
+      - Accepts TAC — confirmed 12 months ago
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 24.5 km from patient postcode
+ 8. Greta Ingleby  [MED1000001096]  score 33.322
+      - No sub-specialty confirmed
+      - TAC status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 5 weeks ago
+      - 19.9 km from patient postcode

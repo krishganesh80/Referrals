@@ -1,0 +1,34 @@
+criteria: {"region":"wrist_hand","category":"nerve_compression","payer":"comcare","postcode":"3000","maxTravelKm":50,"sector":"either","fund":null}
+origin:   -37.8136, 144.9631
+results:  5 of 50
+
+ 1. Priya Underhill  [MED1000002740]  score 55.562
+      - No sub-specialty confirmed
+      - Accepts Comcare — confirmed 12 days ago
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 7 days ago
+      - 8.4 km from patient postcode
+ 2. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 54.576
+      - No sub-specialty confirmed
+      - Accepts Comcare — confirmed 3 months ago
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 9.6 km from patient postcode
+ 3. Bernard Stanhope-Ashby  [MED1000005891]  score 40.813
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 14.2 km from patient postcode
+ 4. Hamish Bramwell-Ashby  [MED1000003562]  score 38.244
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 7.3 km from patient postcode
+ 5. Ulrich Kestrelton  [MED1000001370]  score 37.338
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books closed — confirmed today
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 16.4 km from patient postcode

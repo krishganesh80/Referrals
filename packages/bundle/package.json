@@ -1,0 +1,10 @@
+{
+  "name": "@referral/bundle",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Compiles the working DB into a compact signed bundle artifact.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "dependencies": { "@referral/core": "workspace:*", "zod": "^3.24.1" }
+}

@@ -1,0 +1,89 @@
+criteria: {"region":"knee","category":"joint_replacement","payer":null,"postcode":"3000","maxTravelKm":25,"sector":"either","fund":null}
+origin:   -37.8136, 144.9631
+results:  17 of 50
+
+ 1. Verity Dunmore  [MED1000000411]  score 65.764
+      - Arthroplasty Society of Australia member (verified)
+      - Books-open status not confirmed
+      - Wait to consult 12 weeks — from booking platform, last updated 5 weeks ago
+      - 6.5 km from patient postcode
+ 2. Alice Aldergrove-Ashby  [MED1000003425]  score 61.764
+      - Arthroplasty Society of Australia member (verified)
+      - Books-open status not confirmed
+      - Wait to consult 11 days — from booking platform, last updated 5 weeks ago
+      - 17.5 km from patient postcode
+ 3. Nikolai Jarrowfield  [MED1000001233]  score 51.367
+      - 12 arthroplasty publications indexed since registration (inferred)
+      - Books open — confirmed today
+      - Wait to consult not confirmed
+      - 6.1 km from patient postcode
+ 4. Farrukh Pemberley  [MED1000002055]  score 38.270
+      - 12 arthroplasty publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.6 km from patient postcode
+ 5. Alice Aldergrove  [MED1000000000]  score 33.025
+      - Listed on practice website (from practice website)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 4.7 km from patient postcode
+ 6. Bernard Stanhope  [MED1000002466]  score 23.375
+      - Listed on practice website (from practice website)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 16.7 km from patient postcode
+ 7. Ulrich Kestrelton-Ashby  [MED1000004795]  score 21.215
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 6.9 km from patient postcode
+ 8. Keiko Fairweather  [MED1000000685]  score 20.561
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 7.7 km from patient postcode
+ 9. Verity Dunmore-Ashby  [MED1000003836]  score 20.267
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.1 km from patient postcode
+10. Rosalind Gainsborough-Ashby  [MED1000004247]  score 18.729
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.0 km from patient postcode
+11. Greta Ingleby-Ashby  [MED1000004521]  score 18.628
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.2 km from patient postcode
+12. Priya Underhill  [MED1000002740]  score 16.467
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 12.9 km from patient postcode
+13. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 16.380
+      - No sub-specialty confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 16.0 km from patient postcode
+14. Ulrich Kestrelton  [MED1000001370]  score 16.266
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.1 km from patient postcode
+15. Sunil Zephyrhill-Ashby  [MED1000006713]  score 15.671
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 19.2 km from patient postcode
+16. Desmond Ellingham-Ashby  [MED1000003973]  score 14.312
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.5 km from patient postcode
+17. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 11.206
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.4 km from patient postcode

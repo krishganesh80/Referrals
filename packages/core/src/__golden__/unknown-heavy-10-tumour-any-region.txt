@@ -1,0 +1,89 @@
+criteria: {"region":"general","category":"tumour","payer":null,"postcode":"3000","maxTravelKm":100,"sector":"either","fund":null}
+origin:   -37.8136, 144.9631
+results:  17 of 50
+
+ 1. Tamsin Ravensmoor  [MED1000002329]  score 67.639
+      - Australian Sarcoma Group affiliation (verified)
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 8 weeks ago
+      - 8.3 km from patient postcode
+ 2. Rosalind Gainsborough  [MED1000000822]  score 65.336
+      - Australian Sarcoma Group affiliation (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 7.1 km from patient postcode
+ 3. Farrukh Pemberley-Ashby  [MED1000005480]  score 64.693
+      - Australian Sarcoma Group affiliation (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.3 km from patient postcode
+ 4. Clara Lampeter-Ashby  [MED1000004932]  score 64.330
+      - Australian Sarcoma Group affiliation (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 12.1 km from patient postcode
+ 5. Desmond Ellingham  [MED1000000548]  score 64.095
+      - Australian Sarcoma Group affiliation (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.3 km from patient postcode
+ 6. Elena Wintersgill  [MED1000003014]  score 50.552
+      - 6 sarcoma publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 1.0 km from patient postcode
+ 7. Sunil Zephyrhill-Ashby  [MED1000006713]  score 27.168
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 19.2 km from patient postcode
+ 8. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 25.970
+      - No sub-specialty confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 16.0 km from patient postcode
+ 9. Ulrich Kestrelton-Ashby  [MED1000004795]  score 25.366
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 6.9 km from patient postcode
+10. Keiko Fairweather  [MED1000000685]  score 25.203
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 7.7 km from patient postcode
+11. Verity Dunmore-Ashby  [MED1000003836]  score 25.129
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.1 km from patient postcode
+12. Rosalind Gainsborough-Ashby  [MED1000004247]  score 24.745
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.0 km from patient postcode
+13. Greta Ingleby-Ashby  [MED1000004521]  score 24.719
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.2 km from patient postcode
+14. Priya Underhill  [MED1000002740]  score 24.179
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 12.9 km from patient postcode
+15. Ulrich Kestrelton  [MED1000001370]  score 24.129
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.1 km from patient postcode
+16. Desmond Ellingham-Ashby  [MED1000003973]  score 23.641
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.5 km from patient postcode
+17. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 22.864
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.4 km from patient postcode

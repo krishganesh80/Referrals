@@ -1,0 +1,156 @@
+criteria: {"region":"wrist_hand","category":"trauma_fracture","payer":null,"postcode":"3083","maxTravelKm":45,"sector":"either","fund":"NIB"}
+origin:   -37.7016, 145.0574
+results:  25 of 50
+
+ 1. Ingrid Thackeray-Ashby  [MED1000006028]  score 70.488
+      - Australian Hand Surgery Society member (verified)
+      - No-gap with NIB not listed
+      - Books open — confirmed today
+      - Wait to consult 6 weeks — from booking platform, last updated 7 weeks ago
+      - 19.8 km from patient postcode
+ 2. Wilhelmina Vasterling-Ashby  [MED1000006302]  score 57.131
+      - Australian Hand Surgery Society member (verified)
+      - No-gap with NIB not listed
+      - Books closed — confirmed 5 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 16.8 km from patient postcode
+ 3. Hamish Bramwell  [MED1000000137]  score 56.141
+      - Credentialed for hand surgery at two listed hospitals (inferred)
+      - No-gap with NIB not listed
+      - Books open — confirmed 8 weeks ago
+      - Wait to consult 9 weeks — from booking platform, last updated 8 weeks ago
+      - 8.4 km from patient postcode
+ 4. Farrukh Pemberley-Ashby  [MED1000005480]  score 52.767
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - No-gap with NIB not listed
+      - Books open — confirmed 8 weeks ago
+      - Wait to consult 13 weeks — from booking platform, last updated 2 weeks ago
+      - 15.3 km from patient postcode
+ 5. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 47.901
+      - Credentialed for hand surgery at two listed hospitals (inferred)
+      - No-gap with NIB not listed
+      - Books open — confirmed 3 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 7 weeks ago
+      - 20.2 km from patient postcode
+ 6. Xavier Oakhampton-Ashby  [MED1000005343]  score 47.681
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - No-gap with NIB not listed
+      - Books closed — confirmed 3 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 12 days ago
+      - 3.2 km from patient postcode
+ 7. Sunil Zephyrhill-Ashby  [MED1000006713]  score 44.397
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - No-gap with NIB not listed
+      - Books open — confirmed 5 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 weeks ago
+      - 9.6 km from patient postcode
+ 8. Sunil Zephyrhill  [MED1000003288]  score 40.309
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 7 weeks — from booking platform, last updated 3 weeks ago
+      - 16.7 km from patient postcode
+      - Public clinic wait at Cardinia Public Hospital 5 months — published department figure, not this surgeon's own, last updated 7 weeks ago
+ 9. Alice Aldergrove-Ashby  [MED1000003425]  score 40.054
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 10 days ago
+      - 22.7 km from patient postcode
+10. Ulrich Kestrelton  [MED1000001370]  score 38.756
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books closed — confirmed today
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 1.5 km from patient postcode
+11. Tamsin Ravensmoor  [MED1000002329]  score 37.705
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - No-gap with NIB not listed
+      - Books closed — confirmed 2 days ago
+      - Wait to consult 13 weeks — from booking platform, last updated 3 weeks ago
+      - 31.2 km from patient postcode
+12. Desmond Ellingham  [MED1000000548]  score 35.175
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 11.8 km from patient postcode
+13. Clara Lampeter  [MED1000001507]  score 31.358
+      - Listed on practice website (from practice website)
+      - No-gap with NIB not listed
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult not confirmed
+      - 11.0 km from patient postcode
+14. Clara Lampeter-Ashby  [MED1000004932]  score 28.469
+      - Listed on practice website (from practice website)
+      - No-gap with NIB not listed
+      - Books-open status not confirmed
+      - Wait to consult 8 weeks — from booking platform, last updated 4 weeks ago
+      - 23.5 km from patient postcode
+15. Jonas Marchbanks-Ashby  [MED1000005069]  score 27.810
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 5 weeks ago
+      - 12.4 km from patient postcode
+      - Public clinic wait at Werribee Plains Public Hospital 6 months — published department figure, not this surgeon's own, last updated 7 weeks ago
+16. Greta Ingleby  [MED1000001096]  score 27.269
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 5 weeks ago
+      - 10.7 km from patient postcode
+17. Priya Underhill  [MED1000002740]  score 27.208
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 7 days ago
+      - 15.1 km from patient postcode
+18. Bernard Stanhope-Ashby  [MED1000005891]  score 24.796
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 23.5 km from patient postcode
+19. Farrukh Pemberley  [MED1000002055]  score 23.459
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+      - 23.4 km from patient postcode
+20. Orla Cadwallader-Ashby  [MED1000003699]  score 23.126
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books-open status not confirmed
+      - Wait to consult 5 weeks — from booking platform, last updated 7 days ago
+      - 30.7 km from patient postcode
+21. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 22.666
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 24.2 km from patient postcode
+22. Xavier Oakhampton  [MED1000001918]  score 21.731
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 26.5 km from patient postcode
+23. Hamish Bramwell-Ashby  [MED1000003562]  score 20.020
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 22.3 km from patient postcode
+24. Quentin Netherfield-Ashby  [MED1000005206]  score 18.717
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 21.4 km from patient postcode
+25. Elena Wintersgill  [MED1000003014]  score 15.194
+      - No sub-specialty confirmed
+      - No-gap with NIB not listed
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 23.0 km from patient postcode

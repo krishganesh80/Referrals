@@ -1,0 +1,88 @@
+criteria: {"region":"shoulder","category":"sports_soft_tissue","payer":"tac","postcode":"3121","maxTravelKm":40,"sector":"either","fund":null}
+origin:   -37.8226, 144.9975
+results:  14 of 50
+
+ 1. Bernard Stanhope-Ashby  [MED1000005891]  score 84.211
+      - Shoulder & Elbow Society of Australia member (verified)
+      - Accepts TAC — confirmed 4 months ago
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult not confirmed
+      - 22.1 km from patient postcode
+ 2. Mira Quillfeather-Ashby  [MED1000005617]  score 68.606
+      - Shoulder & Elbow Society of Australia member (verified)
+      - TAC status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 18.8 km from patient postcode
+ 3. Quentin Netherfield-Ashby  [MED1000005206]  score 58.101
+      - 7 shoulder publications indexed since registration (inferred)
+      - Accepts TAC — confirmed 12 months ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.3 km from patient postcode
+ 4. Elena Wintersgill-Ashby  [MED1000006439]  score 55.889
+      - Listed on practice website (from practice website)
+      - Accepts TAC — confirmed 7 weeks ago
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 5 weeks ago
+      - 15.4 km from patient postcode
+ 5. Jonas Marchbanks  [MED1000001644]  score 54.508
+      - 7 shoulder publications indexed since registration (inferred)
+      - TAC status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.0 km from patient postcode
+ 6. Lachlan Yarrowmede  [MED1000003151]  score 42.363
+      - Listed on practice website (from practice website)
+      - TAC status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 11.3 km from patient postcode
+ 7. Yusuf Harkaway-Ashby  [MED1000004384]  score 40.366
+      - Listed on practice website (from practice website)
+      - TAC status not confirmed
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 18.3 km from patient postcode
+ 8. Verity Dunmore-Ashby  [MED1000003836]  score 35.210
+      - No sub-specialty confirmed
+      - TAC status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 5.6 km from patient postcode
+ 9. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 33.044
+      - No sub-specialty confirmed
+      - TAC status not confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 14.7 km from patient postcode
+10. Ulrich Kestrelton-Ashby  [MED1000004795]  score 33.014
+      - No sub-specialty confirmed
+      - TAC status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.0 km from patient postcode
+11. Sunil Zephyrhill-Ashby  [MED1000006713]  score 32.513
+      - No sub-specialty confirmed
+      - TAC status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 19.5 km from patient postcode
+12. Rosalind Gainsborough-Ashby  [MED1000004247]  score 31.734
+      - No sub-specialty confirmed
+      - TAC status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 12.5 km from patient postcode
+13. Greta Ingleby-Ashby  [MED1000004521]  score 31.337
+      - No sub-specialty confirmed
+      - TAC status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.3 km from patient postcode
+14. Priya Underhill  [MED1000002740]  score 30.567
+      - No sub-specialty confirmed
+      - TAC status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 14.9 km from patient postcode

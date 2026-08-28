@@ -1,0 +1,110 @@
+criteria: {"region":"hip","category":"joint_replacement","payer":"dva","postcode":"3144","maxTravelKm":30,"sector":"private","fund":null}
+origin:   -37.8599, 145.0273
+results:  15 of 50
+
+ 1. Alice Aldergrove-Ashby  [MED1000003425]  score 88.712
+      - Arthroplasty Society of Australia member (verified)
+      - DVA status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 11 days — from booking platform, last updated 5 weeks ago
+      - 12.5 km from patient postcode
+      - Consults in the private sector
+ 2. Verity Dunmore  [MED1000000411]  score 82.966
+      - Arthroplasty Society of Australia member (verified)
+      - DVA status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 12 weeks — from booking platform, last updated 5 weeks ago
+      - 13.9 km from patient postcode
+      - Consults in the private sector
+ 3. Nikolai Jarrowfield  [MED1000001233]  score 82.091
+      - 12 arthroplasty publications indexed since registration (inferred)
+      - Accepts DVA — confirmed 4 months ago
+      - Books open — confirmed today
+      - Wait to consult not confirmed
+      - 13.7 km from patient postcode
+      - Consults in the private sector
+ 4. Farrukh Pemberley  [MED1000002055]  score 80.303
+      - 12 arthroplasty publications indexed since registration (inferred)
+      - Accepts DVA — confirmed 4 months ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.2 km from patient postcode
+      - Consults in the private sector
+ 5. Alice Aldergrove  [MED1000000000]  score 54.445
+      - Listed on practice website (from practice website)
+      - DVA status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 5.3 km from patient postcode
+      - Consults in the private sector
+ 6. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 52.508
+      - No sub-specialty confirmed
+      - Accepts DVA — confirmed 8 weeks ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.9 km from patient postcode
+      - Consults in the private sector
+ 7. Verity Dunmore-Ashby  [MED1000003836]  score 47.372
+      - No sub-specialty confirmed
+      - DVA status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 0.9 km from patient postcode
+      - Consults in the private sector
+ 8. Desmond Ellingham-Ashby  [MED1000003973]  score 46.753
+      - No sub-specialty confirmed
+      - Accepts DVA — confirmed 5 weeks ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 22.5 km from patient postcode
+      - Consults in the private sector
+ 9. Bernard Stanhope  [MED1000002466]  score 45.350
+      - Listed on practice website (from practice website)
+      - DVA status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.0 km from patient postcode
+      - Consults in the private sector
+10. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 43.099
+      - No sub-specialty confirmed
+      - DVA status not confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 11.0 km from patient postcode
+      - Consults in the private sector
+11. Rosalind Gainsborough-Ashby  [MED1000004247]  score 40.499
+      - No sub-specialty confirmed
+      - DVA status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 11.3 km from patient postcode
+      - Consults in the private sector
+      - Public clinic wait at Werribee Plains Public Hospital 7 months — published department figure, not this surgeon's own, last updated 6 weeks ago
+12. Ulrich Kestrelton-Ashby  [MED1000004795]  score 39.000
+      - No sub-specialty confirmed
+      - DVA status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.5 km from patient postcode
+      - Consults in the private sector
+13. Ulrich Kestrelton  [MED1000001370]  score 37.689
+      - No sub-specialty confirmed
+      - DVA status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.5 km from patient postcode
+      - Consults in the private sector
+14. Priya Underhill  [MED1000002740]  score 37.312
+      - No sub-specialty confirmed
+      - DVA status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 16.0 km from patient postcode
+      - Consults in the private sector
+15. Sunil Zephyrhill-Ashby  [MED1000006713]  score 36.629
+      - No sub-specialty confirmed
+      - DVA status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 23.4 km from patient postcode
+      - Consults in the private sector

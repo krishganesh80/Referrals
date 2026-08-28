@@ -1,0 +1,82 @@
+criteria: {"region":"wrist_hand","category":"nerve_compression","payer":"comcare","postcode":"3000","maxTravelKm":50,"sector":"either","fund":null}
+origin:   -37.8136, 144.9631
+results:  13 of 50
+
+ 1. Orla Cadwallader  [MED1000000274]  score 71.543
+      - Credentialed for hand surgery at two listed hospitals (inferred)
+      - Accepts Comcare — confirmed 3 months ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.5 km from patient postcode
+ 2. Greta Ingleby  [MED1000001096]  score 53.389
+      - Listed on practice website (from practice website)
+      - Comcare status not confirmed
+      - Books open — confirmed 8 weeks ago
+      - Wait to consult 8 weeks — from booking platform, last updated 6 weeks ago
+      - 10.2 km from patient postcode
+ 3. Greta Ingleby-Ashby  [MED1000004521]  score 42.689
+      - No sub-specialty confirmed
+      - Accepts Comcare — confirmed 8 months ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.2 km from patient postcode
+ 4. Wilhelmina Vasterling-Ashby  [MED1000006302]  score 40.227
+      - Listed on practice website (from practice website)
+      - Comcare status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.4 km from patient postcode
+ 5. Ulrich Kestrelton-Ashby  [MED1000004795]  score 35.232
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 6.9 km from patient postcode
+ 6. Keiko Fairweather  [MED1000000685]  score 34.906
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 7.7 km from patient postcode
+ 7. Sunil Zephyrhill-Ashby  [MED1000006713]  score 34.586
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 19.2 km from patient postcode
+ 8. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 34.023
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 16.0 km from patient postcode
+ 9. Rosalind Gainsborough-Ashby  [MED1000004247]  score 33.989
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.0 km from patient postcode
+10. Priya Underhill  [MED1000002740]  score 32.859
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 12.9 km from patient postcode
+11. Ulrich Kestrelton  [MED1000001370]  score 32.758
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.1 km from patient postcode
+12. Desmond Ellingham-Ashby  [MED1000003973]  score 31.781
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.5 km from patient postcode
+13. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 30.228
+      - No sub-specialty confirmed
+      - Comcare status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.4 km from patient postcode
