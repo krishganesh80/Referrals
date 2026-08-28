@@ -43,25 +43,73 @@ export const DEFAULT_SNAPSHOT_MAX_AGE_MS = 24 * 60 * 60 * 1000;
  * and `Disallow` prefixes only. It errs towards refusing — an unparseable or unreachable
  * robots.txt is treated as a disallow, never as permission.
  */
-export function robotsDisallows(robotsTxt: string, path: string, userAgentToken: string): boolean {
-  const groups = new Map<string, string[]>();
-  let current: string[] = [];
+/**
+ * The Crawl-delay a host asks for, in milliseconds, or null if it asks for none.
+ *
+ * Honouring this is not optional politeness. A host that publishes `Crawl-delay: 10` and gets a
+ * request every 2 seconds is being ignored, whatever the User-Agent says about contacting us.
+ * Where a host asks for more than our own floor, the host wins.
+ */
+export function robotsCrawlDelayMs(robotsTxt: string, userAgentToken: string): number | null {
+  const groups = parseRobotsGroups(robotsTxt);
+  const applicable = [
+    groups.delays.get(userAgentToken.toLowerCase()),
+    groups.delays.get("*"),
+  ].filter((d): d is number => typeof d === "number");
+  return applicable.length === 0 ? null : Math.max(...applicable) * 1000;
+}
+
+interface RobotsGroups {
+  readonly rules: Map<string, string[]>;
+  readonly delays: Map<string, number>;
+}
+
+/**
+ * Consecutive `User-agent` lines form ONE group sharing the rules that follow — which is why a
+ * Squarespace robots.txt listing two dozen AI crawlers immediately before `User-agent: *` is not
+ * a site-wide block on those crawlers; they simply share everyone else's path rules.
+ */
+function parseRobotsGroups(robotsTxt: string): RobotsGroups {
+  const rules = new Map<string, string[]>();
+  const delays = new Map<string, number>();
+  let agents: string[] = [];
+  let expectingAgents = true;
+
   for (const rawLine of robotsTxt.split("\n")) {
     const line = rawLine.split("#")[0]?.trim() ?? "";
     if (line === "") continue;
     const [rawKey, ...rest] = line.split(":");
     const key = rawKey?.trim().toLowerCase() ?? "";
     const value = rest.join(":").trim();
+
     if (key === "user-agent") {
-      current = groups.get(value.toLowerCase()) ?? [];
-      groups.set(value.toLowerCase(), current);
-    } else if (key === "disallow") {
-      current.push(value);
+      if (!expectingAgents) {
+        agents = [];
+        expectingAgents = true;
+      }
+      agents.push(value.toLowerCase());
+      if (!rules.has(value.toLowerCase())) rules.set(value.toLowerCase(), []);
+      continue;
+    }
+
+    expectingAgents = false;
+    if (key === "disallow") {
+      for (const agent of agents) rules.get(agent)?.push(value);
+    } else if (key === "crawl-delay") {
+      const seconds = Number(value);
+      if (Number.isFinite(seconds) && seconds > 0) {
+        for (const agent of agents) delays.set(agent, seconds);
+      }
     }
   }
+  return { rules, delays };
+}
+
+export function robotsDisallows(robotsTxt: string, path: string, userAgentToken: string): boolean {
+  const { rules } = parseRobotsGroups(robotsTxt);
   const applicable = [
-    ...(groups.get(userAgentToken.toLowerCase()) ?? []),
-    ...(groups.get("*") ?? []),
+    ...(rules.get(userAgentToken.toLowerCase()) ?? []),
+    ...(rules.get("*") ?? []),
   ];
   return applicable.some((rule) => rule !== "" && path.startsWith(rule));
 }
@@ -69,6 +117,7 @@ export function robotsDisallows(robotsTxt: string, path: string, userAgentToken:
 export class FetchPolicy {
   private readonly lastRequestAt = new Map<string, number>();
   private readonly robotsCache = new Map<string, string | null>();
+  private readonly crawlDelayMs = new Map<string, number>();
   private readonly hostChains = new Map<string, Promise<unknown>>();
 
   constructor(
@@ -142,6 +191,10 @@ export class FetchPolicy {
         text = null;
       }
       this.robotsCache.set(host, text);
+      if (text !== null) {
+        const asked = robotsCrawlDelayMs(text, this.userAgentToken);
+        if (asked !== null) this.crawlDelayMs.set(host, asked);
+      }
     }
     const robots = this.robotsCache.get(host) ?? null;
     if (robots === null) throw new RobotsDisallowedError(target.toString());
@@ -151,7 +204,11 @@ export class FetchPolicy {
   }
 
   private async waitForSlot(host: string): Promise<void> {
-    const interval = this.options.minIntervalMsPerHost ?? DEFAULT_MIN_INTERVAL_MS;
+    // Our floor, or whatever the host asked for, whichever is slower.
+    const interval = Math.max(
+      this.options.minIntervalMsPerHost ?? DEFAULT_MIN_INTERVAL_MS,
+      this.crawlDelayMs.get(host) ?? 0,
+    );
     const last = this.lastRequestAt.get(host);
     if (last !== undefined) {
       const wait = last + interval - this.deps.now();

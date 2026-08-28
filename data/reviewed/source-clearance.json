@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "clearances": [
+    {
+      "adapterId": "ahpra-register",
+      "status": "cleared",
+      "clearedBy": "krishganesh80",
+      "clearedAt": "2026-08-28",
+      "basis": "Public register of practitioners. Founder clearance given 2026-08-28 for publicly listed sources. Fetching remains subject to robots.txt and the shared rate limit."
+    },
+    {
+      "adapterId": "society-knee",
+      "status": "cleared",
+      "clearedBy": "krishganesh80",
+      "clearedAt": "2026-08-28",
+      "basis": "Australian Knee Society public find-a-surgeon listing. Founder clearance given 2026-08-28 for publicly listed sources."
+    },
+    {
+      "adapterId": "society-hand",
+      "status": "cleared",
+      "clearedBy": "krishganesh80",
+      "clearedAt": "2026-08-28",
+      "basis": "Australian Hand Surgery Society public directory at ahss.org.au. Confirmed publicly readable on 2026-08-28 with no login gate; robots.txt allows all paths. Founder clearance given 2026-08-28 for publicly listed sources."
+    },
+    {
+      "adapterId": "society-shoulder-elbow",
+      "status": "cleared",
+      "clearedBy": "krishganesh80",
+      "clearedAt": "2026-08-28",
+      "basis": "Shoulder & Elbow Society of Australia public find-a-surgeon listing. Founder clearance given 2026-08-28 for publicly listed sources."
+    },
+    {
+      "adapterId": "society-foot-ankle",
+      "status": "cleared",
+      "clearedBy": "krishganesh80",
+      "clearedAt": "2026-08-28",
+      "basis": "Australian Foot & Ankle Society public find-a-surgeon listing. Founder clearance given 2026-08-28 for publicly listed sources."
+    },
+    {
+      "adapterId": "society-spine",
+      "status": "cleared",
+      "clearedBy": "krishganesh80",
+      "clearedAt": "2026-08-28",
+      "basis": "Spine Society of Australia public find-a-surgeon listing. Founder clearance given 2026-08-28 for publicly listed sources."
+    },
+    {
+      "adapterId": "society-arthroplasty",
+      "status": "blocked",
+      "clearedBy": "krishganesh80",
+      "clearedAt": "2026-08-28",
+      "basis": "Arthroplasty Society of Australia member directory sits behind a member login. The brief forbids scraping behind a login, so this source is blocked rather than merely unreviewed."
+    },
+    {
+      "adapterId": "society-paediatric",
+      "status": "blocked",
+      "clearedBy": "krishganesh80",
+      "clearedAt": "2026-08-28",
+      "basis": "Australian Paediatric Orthopaedic Society member directory sits behind a member login. Blocked for the same reason as the Arthroplasty Society: we do not scrape behind a login."
+    },
+    {
+      "adapterId": "pubmed-eutilities",
+      "status": "cleared",
+      "clearedBy": "krishganesh80",
+      "clearedAt": "2026-08-28",
+      "basis": "NCBI E-utilities is a documented public API used within its published usage policy. Not scraped."
+    },
+    {
+      "adapterId": "aoa-feed",
+      "status": "needs-review",
+      "clearedBy": "krishganesh80",
+      "clearedAt": "2026-08-28",
+      "basis": "Deliberately NOT cleared: this is a licensed feed, not a publicly listed source, and no licence is in place. Stub only \u2014 no implementation exists to run."
+    }
+  ]
+}

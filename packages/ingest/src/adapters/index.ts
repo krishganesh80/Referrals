@@ -10,6 +10,7 @@
 // window are already in force and cannot be forgotten.
 
 import type { FetchPolicy } from "../fetch-policy";
+import type { Subspecialty } from "@referral/core";
 import type { PartialSurgeon, RawSnapshot, SourceAdapter } from "../types";
 
 export class NotImplementedError extends Error {
@@ -51,20 +52,79 @@ export interface SocietyConfig {
   readonly key: string;
   readonly name: string;
   readonly url: string;
+  readonly bucket: Subspecialty;
+  /**
+   * Whether the URL above has actually been confirmed to serve a public listing.
+   *
+   * `verified`     — fetched, parsed, entry count known.
+   * `site-exists`  — the domain resolves and robots permits, but the directory path and whether
+   *                  it is public rather than members-only has NOT been confirmed.
+   * `members-only` — the listing appears to sit behind a login. Not to be fetched: the brief is
+   *                  explicit that we do not scrape behind a login.
+   */
+  readonly directoryStatus: "verified" | "site-exists" | "members-only";
 }
 
 /**
- * Tier A, and the highest-value signal in the product: a society membership is a surgeon
- * telling their peers what they do, which is a far harder statement than a practice website.
+ * Tier A, and the highest-value signal in the product: a society membership is a surgeon telling
+ * their peers what they do, which is a far harder statement than a practice website.
+ *
+ * THESE URLS WERE CHECKED, NOT ASSUMED. An earlier draft of this file carried plausible-looking
+ * domains that had simply been guessed; three of them had no DNS record at all. Every entry below
+ * has been resolved and its robots.txt read on 2026-08-28, and each carries the status of what was
+ * actually found rather than what would be convenient.
  */
 export const SUBSPECIALTY_SOCIETIES: readonly SocietyConfig[] = [
-  { key: "knee", name: "Australian Knee Society", url: "https://kneesociety.org.au/find-a-surgeon/" },
-  { key: "hand", name: "Australian Hand Surgery Society", url: "https://handsurgery.org.au/find-a-hand-surgeon/" },
-  { key: "shoulder-elbow", name: "Shoulder & Elbow Society of Australia", url: "https://sesa.org.au/find-a-surgeon/" },
-  { key: "foot-ankle", name: "Australian Foot & Ankle Society", url: "https://afas.org.au/find-a-surgeon/" },
-  { key: "spine", name: "Spine Society of Australia", url: "https://spinesociety.org.au/find-a-surgeon/" },
-  { key: "arthroplasty", name: "Arthroplasty Society of Australia", url: "https://arthroplastysociety.com.au/members/" },
-  { key: "paediatric", name: "Paediatric Orthopaedic Society of Australia", url: "https://posa.org.au/members/" },
+  {
+    key: "hand",
+    name: "Australian Hand Surgery Society",
+    url: "https://ahss.org.au/hand-surgery-public-directory/",
+    bucket: "hand_wrist",
+    directoryStatus: "verified",
+  },
+  {
+    key: "knee",
+    name: "Australian Knee Society",
+    url: "https://www.kneesociety.org.au/",
+    bucket: "knee_sports",
+    directoryStatus: "site-exists",
+  },
+  {
+    key: "shoulder-elbow",
+    name: "Shoulder & Elbow Society of Australia",
+    url: "https://www.sesa.org.au/",
+    bucket: "shoulder_elbow",
+    directoryStatus: "site-exists",
+  },
+  {
+    key: "foot-ankle",
+    name: "Australian Foot & Ankle Society",
+    // Publishes Crawl-delay: 10. The fetch policy honours it; do not lower it here.
+    url: "https://afas.org.au/",
+    bucket: "foot_ankle",
+    directoryStatus: "site-exists",
+  },
+  {
+    key: "spine",
+    name: "Spine Society of Australia",
+    url: "https://spinesociety.org.au/",
+    bucket: "spine",
+    directoryStatus: "site-exists",
+  },
+  {
+    key: "arthroplasty",
+    name: "Arthroplasty Society of Australia",
+    url: "https://arthroplasty.org.au/directory-of-asa-members/",
+    bucket: "hip_knee_arthroplasty",
+    directoryStatus: "members-only",
+  },
+  {
+    key: "paediatric",
+    name: "Australian Paediatric Orthopaedic Society",
+    url: "https://www.apos.org.au/",
+    bucket: "paediatric",
+    directoryStatus: "members-only",
+  },
 ];
 
 export function subspecialtySocietyAdapter(policy: FetchPolicy, society: SocietyConfig): SourceAdapter {
@@ -72,12 +132,15 @@ export function subspecialtySocietyAdapter(policy: FetchPolicy, society: Society
     id: `society-${society.key}`,
     url: society.url,
     defaultTier: "A",
-    description: `${society.name} membership listing.`,
+    description: `${society.name} membership listing (${society.directoryStatus}).`,
   });
 }
 
+/** Societies whose listing is public. The members-only ones are deliberately not included. */
 export function subspecialtySocietyAdapters(policy: FetchPolicy): SourceAdapter[] {
-  return SUBSPECIALTY_SOCIETIES.map((s) => subspecialtySocietyAdapter(policy, s));
+  return SUBSPECIALTY_SOCIETIES.filter((s) => s.directoryStatus !== "members-only").map((s) =>
+    subspecialtySocietyAdapter(policy, s),
+  );
 }
 
 /** Tier B. Public and private hospital specialist listings. Yields operating locations. */
@@ -127,3 +190,5 @@ export function aoaFeedAdapter(policy: FetchPolicy): SourceAdapter {
     description: "Australian Orthopaedic Association licensed feed. Identity only — never access data.",
   });
 }
+
+export { ahssDirectoryAdapter, parseAhssDirectory, AHSS_DIRECTORY_URL } from "./ahss";

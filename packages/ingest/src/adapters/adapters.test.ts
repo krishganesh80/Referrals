@@ -53,9 +53,20 @@ describe("the source register", () => {
     expect(aoaFeedAdapter(policy).defaultTier).toBe("A");
   });
 
-  it("covers all seven sub-specialty societies", () => {
+  it("knows all seven societies but builds adapters only for the public listings", () => {
     expect(SUBSPECIALTY_SOCIETIES).toHaveLength(7);
-    expect(subspecialtySocietyAdapters(policy)).toHaveLength(7);
+    const membersOnly = SUBSPECIALTY_SOCIETIES.filter((s) => s.directoryStatus === "members-only");
+    expect(membersOnly.map((s) => s.key).sort()).toEqual(["arthroplasty", "paediatric"]);
+    // The brief is explicit: do not scrape behind a login. A members-only listing gets no adapter
+    // at all, so there is nothing to accidentally clear later.
+    expect(subspecialtySocietyAdapters(policy)).toHaveLength(5);
+  });
+
+  it("carries no society URL that was never checked", () => {
+    // Three domains in an earlier draft of the registry had no DNS record; they had simply been
+    // guessed. Every entry now records what was actually found.
+    expect(SUBSPECIALTY_SOCIETIES.every((s) => s.directoryStatus !== undefined)).toBe(true);
+    expect(SUBSPECIALTY_SOCIETIES.filter((s) => s.directoryStatus === "verified").map((s) => s.key)).toEqual(["hand"]);
   });
 
   it("uses PubMed's documented API rather than scraping it", () => {

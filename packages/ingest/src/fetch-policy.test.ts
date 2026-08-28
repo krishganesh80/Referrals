@@ -2,7 +2,7 @@
 // are tested exactly — no network, no real waiting.
 
 import { describe, expect, it, vi } from "vitest";
-import { FetchPolicy, robotsDisallows, type FetchPolicyDeps, type HttpResponse } from "./fetch-policy";
+import { FetchPolicy, robotsCrawlDelayMs, robotsDisallows, type FetchPolicyDeps, type HttpResponse } from "./fetch-policy";
 import { RobotsDisallowedError, type RawSnapshot } from "./types";
 
 interface Harness {
@@ -191,5 +191,46 @@ describe("the 24-hour snapshot window", () => {
     // first slot and the page waited out the interval. fetchedAt records when the page was
     // actually retrieved, which is what staleness has to be measured from.
     expect(result.fetchedAt).toBe("2026-08-28T00:00:02.000Z");
+  });
+});
+
+describe("Crawl-delay", () => {
+  const squarespace = `
+User-agent: anthropic-ai
+User-agent: ClaudeBot
+User-agent: GPTBot
+User-agent: *
+Disallow: /config
+Disallow: /search
+`;
+
+  it("reads a delay the host asks for", () => {
+    expect(robotsCrawlDelayMs("User-agent: *\nCrawl-delay: 10", "ReferralSupportBot")).toBe(10_000);
+  });
+
+  it("is null when the host asks for none", () => {
+    expect(robotsCrawlDelayMs("User-agent: *\nDisallow: /x", "ReferralSupportBot")).toBeNull();
+  });
+
+  it("slows us to the host's pace when it is slower than our floor", async () => {
+    const h = harness({ robots: "User-agent: *\nCrawl-delay: 10", minIntervalMsPerHost: 2000 });
+    await h.policy.get("https://slow.test/a");
+    await h.policy.get("https://slow.test/b");
+    expect(Math.max(...h.slept)).toBe(10_000);
+  });
+
+  it("never speeds us up below our own floor", async () => {
+    const h = harness({ robots: "User-agent: *\nCrawl-delay: 1", minIntervalMsPerHost: 2000 });
+    await h.policy.get("https://quick.test/a");
+    await h.policy.get("https://quick.test/b");
+    expect(Math.max(...h.slept)).toBe(2000);
+  });
+
+  it("treats consecutive User-agent lines as one group sharing the rules that follow", () => {
+    // A Squarespace robots.txt lists two dozen AI crawlers immediately before `User-agent: *`.
+    // That is not a site-wide block on those crawlers — they share everyone else's path rules.
+    expect(robotsDisallows(squarespace, "/member-directory", "ClaudeBot")).toBe(false);
+    expect(robotsDisallows(squarespace, "/search", "ClaudeBot")).toBe(true);
+    expect(robotsDisallows(squarespace, "/member-directory", "ReferralSupportBot")).toBe(false);
   });
 });
