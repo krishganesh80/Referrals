@@ -7,8 +7,8 @@
     "typecheck": "tsc -p tsconfig.json --noEmit",
     "test": "vitest run",
     "verify": "pnpm typecheck && pnpm test",
-    "access": "tsx packages/access/src/cli/index.ts",
-    "ingest": "tsx packages/ingest/src/cli/run.ts"
+    "ingest": "tsx packages/ingest/src/cli/run.ts",
+    "access:verify": "tsx packages/access/src/cli/verify.ts"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
