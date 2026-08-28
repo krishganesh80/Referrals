@@ -1,0 +1,126 @@
+criteria: {"region":"knee","category":"sports_soft_tissue","payer":null,"postcode":"3128","maxTravelKm":30,"sector":"private","fund":"Medibank"}
+origin:   -37.8195, 145.1234
+results:  17 of 50
+
+ 1. Mira Quillfeather  [MED1000002192]  score 63.883
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 5.4 km from patient postcode
+      - Consults in the private sector
+ 2. Xavier Oakhampton  [MED1000001918]  score 58.288
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.8 km from patient postcode
+      - Consults in the private sector
+ 3. Hamish Bramwell  [MED1000000137]  score 57.589
+      - Australian Knee Society member (verified)
+      - No-gap with Medibank not listed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 28.7 km from patient postcode
+      - Consults in the private sector
+ 4. Sunil Zephyrhill  [MED1000003288]  score 51.087
+      - Listed on practice website (from practice website)
+      - No-gap fund participation not confirmed
+      - Books open — confirmed 10 days ago
+      - Wait to consult not confirmed
+      - 11.9 km from patient postcode
+      - Consults in the private sector
+ 5. Clara Lampeter-Ashby  [MED1000004932]  score 46.006
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - No-gap with Medibank not listed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 22.1 km from patient postcode
+      - Consults in the private sector
+ 6. Yusuf Harkaway  [MED1000000959]  score 45.759
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - No-gap with Medibank not listed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 22.5 km from patient postcode
+      - Consults in the private sector
+      - Public clinic wait at Fitzroy North Public Hospital 3 months — published department figure, not this surgeon's own, last updated 8 weeks ago
+ 7. Verity Dunmore-Ashby  [MED1000003836]  score 36.678
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.2 km from patient postcode
+      - Consults in the private sector
+ 8. Greta Ingleby-Ashby  [MED1000004521]  score 35.711
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 11.7 km from patient postcode
+      - Consults in the private sector
+      - Public clinic wait at Cardinia Public Hospital 8 months — published department figure, not this surgeon's own, last updated 6 days ago
+ 9. Sunil Zephyrhill-Ashby  [MED1000006713]  score 33.947
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 20.7 km from patient postcode
+      - Consults in the private sector
+10. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 33.348
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 18.9 km from patient postcode
+      - Consults in the private sector
+11. Keiko Fairweather  [MED1000000685]  score 32.271
+      - No sub-specialty confirmed
+      - No-gap with Medibank not listed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 6.7 km from patient postcode
+      - Consults in the private sector
+12. Rosalind Gainsborough-Ashby  [MED1000004247]  score 30.805
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.0 km from patient postcode
+      - Consults in the private sector
+      - Public clinic wait at Werribee Plains Public Hospital 7 months — published department figure, not this surgeon's own, last updated 6 weeks ago
+13. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 29.678
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 20.7 km from patient postcode
+      - Consults in the private sector
+14. Ulrich Kestrelton-Ashby  [MED1000004795]  score 29.498
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 21.0 km from patient postcode
+      - Consults in the private sector
+15. Ulrich Kestrelton  [MED1000001370]  score 28.647
+      - No sub-specialty confirmed
+      - No-gap with Medibank not listed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 12.2 km from patient postcode
+      - Consults in the private sector
+16. Priya Underhill  [MED1000002740]  score 26.640
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 25.3 km from patient postcode
+      - Consults in the private sector
+17. Desmond Ellingham-Ashby  [MED1000003973]  score 23.811
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 29.5 km from patient postcode
+      - Consults in the private sector

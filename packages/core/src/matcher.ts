@@ -165,16 +165,16 @@ function nearest(
 ): { location: PracticeLocation | null; km: number | null } {
   const first = surgeon.locations[0] ?? null;
   if (!origin) return { location: first, km: null };
-  let best: PracticeLocation | null = null;
-  let bestKm = Number.POSITIVE_INFINITY;
+  let closest: PracticeLocation | null = null;
+  let closestKm = Number.POSITIVE_INFINITY;
   for (const loc of surgeon.locations) {
     const km = haversineKm(origin, loc);
-    if (km < bestKm) {
-      bestKm = km;
-      best = loc;
+    if (km < closestKm) {
+      closestKm = km;
+      closest = loc;
     }
   }
-  return best === null ? { location: null, km: null } : { location: best, km: bestKm };
+  return closest === null ? { location: null, km: null } : { location: closest, km: closestKm };
 }
 
 // ---------------------------------------------------------------------------
@@ -199,20 +199,20 @@ function subspecialtyFactor(surgeon: Surgeon, criteria: Criteria): Factor {
     // silence about a sub-specialty is not evidence they do not practise it.
     return { delta: 0, reasons: ["No sub-specialty confirmed"] };
   }
-  let best: Factor | null = null;
-  let bestDelta = -1;
+  let strongest: Factor | null = null;
+  let strongestDelta = -1;
   for (const tag of surgeon.subspecialtyTags) {
     const position = buckets.indexOf(tag.bucket);
     if (position < 0) continue;
     const positionWeight =
       position === 0 ? BUCKET_POSITION_WEIGHT.primary : BUCKET_POSITION_WEIGHT.adjacent;
     const delta = MATCH_WEIGHTS.subspecialty * TIER_WEIGHT[tag.tier] * positionWeight;
-    if (delta > bestDelta) {
-      bestDelta = delta;
-      best = { delta, reasons: [`${tag.evidence} (${TIER_PHRASE[tag.tier]})`] };
+    if (delta > strongestDelta) {
+      strongestDelta = delta;
+      strongest = { delta, reasons: [`${tag.evidence} (${TIER_PHRASE[tag.tier]})`] };
     }
   }
-  return best ?? none;
+  return strongest ?? none;
 }
 
 function payerFactor(

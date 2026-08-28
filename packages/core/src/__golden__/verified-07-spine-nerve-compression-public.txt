@@ -1,0 +1,131 @@
+criteria: {"region":"spine","category":"nerve_compression","payer":null,"postcode":"3068","maxTravelKm":40,"sector":"public","fund":null}
+origin:   -37.7833, 144.9833
+results:  21 of 50
+
+ 1. Priya Underhill-Ashby  [MED1000006165]  score 74.035
+      - Spine Society of Australia member (verified)
+      - Books open — confirmed 5 days ago
+      - Wait to consult not confirmed
+      - 16.4 km from patient postcode
+      - Consults in the public sector
+ 2. Tamsin Ravensmoor-Ashby  [MED1000005754]  score 67.523
+      - 11 spine publications indexed since registration (inferred)
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 8 weeks — from booking platform, last updated 2 weeks ago
+      - 10.1 km from patient postcode
+      - Consults in the public sector
+ 3. Ingrid Thackeray  [MED1000002603]  score 65.266
+      - Spine Society of Australia member (verified)
+      - Books closed — confirmed 5 weeks ago
+      - Wait to consult 7 weeks — from booking platform, last updated 8 weeks ago
+      - 6.8 km from patient postcode
+      - No public-sector location listed
+ 4. Keiko Fairweather  [MED1000000685]  score 63.045
+      - 11 spine publications indexed since registration (inferred)
+      - Books open — confirmed 5 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 weeks ago
+      - 11.6 km from patient postcode
+      - Consults in the public sector
+ 5. Elena Wintersgill-Ashby  [MED1000006439]  score 55.737
+      - 11 spine publications indexed since registration (inferred)
+      - Books open — confirmed 2 months ago
+      - Wait to consult 5 weeks — from booking platform, last updated 3 weeks ago
+      - 13.0 km from patient postcode
+      - No public-sector location listed
+ 6. Sunil Zephyrhill  [MED1000003288]  score 43.993
+      - No sub-specialty confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 7 weeks — from booking platform, last updated 3 weeks ago
+      - 14.0 km from patient postcode
+      - Consults in the public sector
+ 7. Yusuf Harkaway-Ashby  [MED1000004384]  score 43.646
+      - Listed on practice website (from practice website)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 6.2 km from patient postcode
+      - Consults in the public sector
+ 8. Jonas Marchbanks-Ashby  [MED1000005069]  score 42.520
+      - No sub-specialty confirmed
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 5 weeks ago
+      - 1.6 km from patient postcode
+      - Consults in the public sector
+      - Public clinic wait at Werribee Plains Public Hospital 6 months — published department figure, not this surgeon's own, last updated 7 weeks ago
+ 9. Tamsin Ravensmoor  [MED1000002329]  score 40.143
+      - 11 spine publications indexed since registration (inferred)
+      - Books closed — confirmed 2 days ago
+      - Wait to consult 13 weeks — from booking platform, last updated 3 weeks ago
+      - 22.9 km from patient postcode
+      - No public-sector location listed
+10. Priya Underhill  [MED1000002740]  score 39.605
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 7 days ago
+      - 8.6 km from patient postcode
+      - Consults in the public sector
+11. Desmond Ellingham  [MED1000000548]  score 37.944
+      - No sub-specialty confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 4.9 km from patient postcode
+      - No public-sector location listed
+12. Bernard Stanhope-Ashby  [MED1000005891]  score 37.533
+      - No sub-specialty confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 15.4 km from patient postcode
+      - Consults in the public sector
+13. Orla Cadwallader-Ashby  [MED1000003699]  score 36.764
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 5 weeks — from booking platform, last updated 7 days ago
+      - 20.0 km from patient postcode
+      - Consults in the public sector
+14. Farrukh Pemberley  [MED1000002055]  score 35.523
+      - No sub-specialty confirmed
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+      - 16.7 km from patient postcode
+      - Consults in the public sector
+15. Hamish Bramwell-Ashby  [MED1000003562]  score 34.366
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 11.1 km from patient postcode
+      - Consults in the public sector
+16. Elena Wintersgill  [MED1000003014]  score 27.160
+      - No sub-specialty confirmed
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 16.5 km from patient postcode
+      - Consults in the public sector
+17. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 26.856
+      - No sub-specialty confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 13.1 km from patient postcode
+      - No public-sector location listed
+18. Ulrich Kestrelton  [MED1000001370]  score 26.335
+      - No sub-specialty confirmed
+      - Books closed — confirmed today
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 12.7 km from patient postcode
+      - No public-sector location listed
+19. Greta Ingleby  [MED1000001096]  score 24.329
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 5 weeks ago
+      - 15.4 km from patient postcode
+      - No public-sector location listed
+20. Quentin Netherfield-Ashby  [MED1000005206]  score 18.064
+      - No sub-specialty confirmed
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 20.4 km from patient postcode
+      - No public-sector location listed
+21. Xavier Oakhampton  [MED1000001918]  score 17.252
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.0 km from patient postcode
+      - No public-sector location listed

@@ -1,0 +1,83 @@
+criteria: {"region":"spine","category":"trauma_fracture","payer":"ctp","postcode":"3000","maxTravelKm":60,"sector":"either","fund":null}
+origin:   -37.8136, 144.9631
+results:  13 of 50
+
+ 1. Ingrid Thackeray-Ashby  [MED1000006028]  score 86.074
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - Accepts CTP — confirmed 8 weeks ago
+      - Books open — confirmed today
+      - Wait to consult 6 weeks — from booking platform, last updated 7 weeks ago
+      - 6.6 km from patient postcode
+ 2. Tamsin Ravensmoor-Ashby  [MED1000005754]  score 69.428
+      - 11 spine publications indexed since registration (inferred)
+      - CTP status not confirmed
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 8 weeks — from booking platform, last updated 2 weeks ago
+      - 13.2 km from patient postcode
+ 3. Sunil Zephyrhill  [MED1000003288]  score 56.935
+      - No sub-specialty confirmed
+      - Accepts CTP — confirmed 6 months ago
+      - Books open — confirmed 9 days ago
+      - Wait to consult 7 weeks — from booking platform, last updated 3 weeks ago
+      - 12.2 km from patient postcode
+ 4. Orla Cadwallader-Ashby  [MED1000003699]  score 56.165
+      - No sub-specialty confirmed
+      - Accepts CTP — confirmed 5 months ago
+      - Books-open status not confirmed
+      - Wait to consult 5 weeks — from booking platform, last updated 7 days ago
+      - 16.8 km from patient postcode
+ 5. Tamsin Ravensmoor  [MED1000002329]  score 56.088
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - CTP status not confirmed
+      - Books closed — confirmed 2 days ago
+      - Wait to consult 13 weeks — from booking platform, last updated 3 weeks ago
+      - 20.2 km from patient postcode
+ 6. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 55.216
+      - No sub-specialty confirmed
+      - Accepts CTP — confirmed 4 months ago
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 9.6 km from patient postcode
+ 7. Bernard Stanhope-Ashby  [MED1000005891]  score 50.511
+      - No sub-specialty confirmed
+      - Accepts CTP — confirmed 7 months ago
+      - Books open — confirmed 9 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 14.2 km from patient postcode
+ 8. Farrukh Pemberley  [MED1000002055]  score 48.834
+      - No sub-specialty confirmed
+      - Accepts CTP — confirmed 7 months ago
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+      - 15.1 km from patient postcode
+ 9. Yusuf Harkaway-Ashby  [MED1000004384]  score 46.333
+      - Listed on practice website (from practice website)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 5.0 km from patient postcode
+10. Xavier Oakhampton  [MED1000001918]  score 46.117
+      - No sub-specialty confirmed
+      - Accepts CTP — confirmed 3 months ago
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 16.9 km from patient postcode
+11. Clara Lampeter  [MED1000001507]  score 41.522
+      - Listed on practice website (from practice website)
+      - CTP status not confirmed
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult not confirmed
+      - 17.9 km from patient postcode
+      - Public clinic wait at Fitzroy North Public Hospital 5 months — published department figure, not this surgeon's own, last updated 7 weeks ago
+12. Elena Wintersgill  [MED1000003014]  score 40.390
+      - No sub-specialty confirmed
+      - Accepts CTP — confirmed 9 months ago
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 15.0 km from patient postcode
+13. Quentin Netherfield-Ashby  [MED1000005206]  score 32.217
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 21.9 km from patient postcode

@@ -1,0 +1,95 @@
+criteria: {"region":"knee","category":"joint_replacement","payer":null,"postcode":"3000","maxTravelKm":25,"sector":"either","fund":null}
+origin:   -37.8136, 144.9631
+results:  18 of 50
+
+ 1. Nikolai Jarrowfield  [MED1000001233]  score 64.089
+      - Arthroplasty Society of Australia member (verified)
+      - Books open — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 5 days ago
+      - 13.6 km from patient postcode
+ 2. Ingrid Thackeray  [MED1000002603]  score 60.682
+      - Arthroplasty Society of Australia member (verified)
+      - Books closed — confirmed 5 weeks ago
+      - Wait to consult 7 weeks — from booking platform, last updated 8 weeks ago
+      - 10.0 km from patient postcode
+ 3. Elena Wintersgill-Ashby  [MED1000006439]  score 35.784
+      - Listed on practice website (from practice website)
+      - Books open — confirmed 2 months ago
+      - Wait to consult 5 weeks — from booking platform, last updated 3 weeks ago
+      - 15.6 km from patient postcode
+ 4. Desmond Ellingham  [MED1000000548]  score 35.531
+      - No sub-specialty confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 6.1 km from patient postcode
+ 5. Keiko Fairweather-Ashby  [MED1000004110]  score 35.162
+      - Listed on practice website (from practice website)
+      - Books open — confirmed 3 weeks ago
+      - Wait to consult 5 weeks — from booking platform, last updated 3 weeks ago
+      - 18.3 km from patient postcode
+ 6. Sunil Zephyrhill  [MED1000003288]  score 31.244
+      - No sub-specialty confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 7 weeks — from booking platform, last updated 3 weeks ago
+      - 12.2 km from patient postcode
+ 7. Jonas Marchbanks-Ashby  [MED1000005069]  score 30.902
+      - No sub-specialty confirmed
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 5 weeks ago
+      - 3.0 km from patient postcode
+      - Public clinic wait at Werribee Plains Public Hospital 6 months — published department figure, not this surgeon's own, last updated 7 weeks ago
+ 8. Priya Underhill  [MED1000002740]  score 27.208
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 7 days ago
+      - 8.4 km from patient postcode
+ 9. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 25.736
+      - No sub-specialty confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 9.6 km from patient postcode
+10. Hamish Bramwell-Ashby  [MED1000003562]  score 24.072
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 7.3 km from patient postcode
+11. Bernard Stanhope-Ashby  [MED1000005891]  score 23.877
+      - No sub-specialty confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+      - 14.2 km from patient postcode
+12. Orla Cadwallader-Ashby  [MED1000003699]  score 23.347
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 5 weeks — from booking platform, last updated 7 days ago
+      - 16.8 km from patient postcode
+13. Farrukh Pemberley  [MED1000002055]  score 21.788
+      - No sub-specialty confirmed
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+      - 15.1 km from patient postcode
+14. Ulrich Kestrelton  [MED1000001370]  score 19.510
+      - No sub-specialty confirmed
+      - Books closed — confirmed today
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+      - 16.4 km from patient postcode
+15. Greta Ingleby  [MED1000001096]  score 17.138
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 5 weeks ago
+      - 18.6 km from patient postcode
+16. Elena Wintersgill  [MED1000003014]  score 13.377
+      - No sub-specialty confirmed
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 15.0 km from patient postcode
+17. Xavier Oakhampton  [MED1000001918]  score 13.232
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 16.9 km from patient postcode
+18. Quentin Netherfield-Ashby  [MED1000005206]  score 10.770
+      - No sub-specialty confirmed
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 21.9 km from patient postcode

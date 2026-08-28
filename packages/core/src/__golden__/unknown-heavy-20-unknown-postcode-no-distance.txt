@@ -1,0 +1,72 @@
+criteria: {"region":"knee","category":"sports_soft_tissue","payer":null,"postcode":"9999","maxTravelKm":25,"sector":"either","fund":null}
+origin:   not in gazetteer — distance not ranked
+results:  17 of 50
+
+ 1. Hamish Bramwell  [MED1000000137]  score 46.750
+      - Australian Knee Society member (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+ 2. Yusuf Harkaway  [MED1000000959]  score 30.750
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+ 3. Xavier Oakhampton  [MED1000001918]  score 30.750
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+ 4. Mira Quillfeather  [MED1000002192]  score 30.750
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+ 5. Clara Lampeter-Ashby  [MED1000004932]  score 30.750
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+ 6. Sunil Zephyrhill  [MED1000003288]  score 22.250
+      - Listed on practice website (from practice website)
+      - Books open — confirmed 10 days ago
+      - Wait to consult not confirmed
+ 7. Sunil Zephyrhill-Ashby  [MED1000006713]  score 11.000
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+ 8. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 9.167
+      - No sub-specialty confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+ 9. Keiko Fairweather  [MED1000000685]  score 6.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+10. Ulrich Kestrelton  [MED1000001370]  score 6.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+11. Priya Underhill  [MED1000002740]  score 6.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+12. Verity Dunmore-Ashby  [MED1000003836]  score 6.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+13. Desmond Ellingham-Ashby  [MED1000003973]  score 6.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+14. Rosalind Gainsborough-Ashby  [MED1000004247]  score 6.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+15. Greta Ingleby-Ashby  [MED1000004521]  score 6.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+16. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 6.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+17. Ulrich Kestrelton-Ashby  [MED1000004795]  score 6.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed

@@ -18,11 +18,20 @@
 
 import { z } from "zod";
 
-/** YYYY-MM-DD, and a date that actually exists. */
+/**
+ * YYYY-MM-DD, and a date that actually exists.
+ *
+ * `Date.parse` is not the check it looks like: it rolls 2026-02-31 over to 3 March and returns
+ * a number, so a `!Number.isNaN` guard accepts impossible dates. The round trip is the check —
+ * a date that survives parsing and re-formatting unchanged is a real one.
+ */
 export const IsoDateSchema = z
   .string()
   .regex(/^\d{4}-\d{2}-\d{2}$/, "expected YYYY-MM-DD")
-  .refine((s) => !Number.isNaN(Date.parse(`${s}T00:00:00.000Z`)), "not a real date");
+  .refine((s) => {
+    const parsed = new Date(`${s}T00:00:00.000Z`);
+    return !Number.isNaN(parsed.getTime()) && parsed.toISOString().slice(0, 10) === s;
+  }, "not a real date");
 export type IsoDate = z.infer<typeof IsoDateSchema>;
 
 /** ISO 8601 instant, used for fetch timestamps where the time of day matters. */

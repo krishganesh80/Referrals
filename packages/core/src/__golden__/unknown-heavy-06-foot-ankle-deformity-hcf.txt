@@ -1,0 +1,196 @@
+criteria: {"region":"foot_ankle","category":"deformity_reconstruction","payer":null,"postcode":"3144","maxTravelKm":30,"sector":"private","fund":"HCF"}
+origin:   -37.8599, 145.0273
+results:  27 of 50
+
+ 1. Farrukh Pemberley  [MED1000002055]  score 86.303
+      - Australian Foot & Ankle Society member (verified)
+      - No-gap with HCF — from fund directory
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.2 km from patient postcode
+      - Consults in the private sector
+ 2. Alice Aldergrove-Ashby  [MED1000003425]  score 84.212
+      - Australian Foot & Ankle Society member (verified)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 11 days — from booking platform, last updated 5 weeks ago
+      - 12.5 km from patient postcode
+      - Consults in the private sector
+ 3. Jonas Marchbanks  [MED1000001644]  score 70.525
+      - Australian Foot & Ankle Society member (verified)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.5 km from patient postcode
+      - Consults in the private sector
+ 4. Orla Cadwallader-Ashby  [MED1000003699]  score 65.181
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 3.5 km from patient postcode
+      - Consults in the private sector
+ 5. Hamish Bramwell-Ashby  [MED1000003562]  score 63.553
+      - Credentialed for foot & ankle surgery at a listed hospital (inferred)
+      - No-gap fund participation not confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult not confirmed
+      - 11.2 km from patient postcode
+      - Consults in the private sector
+ 6. Tamsin Ravensmoor-Ashby  [MED1000005754]  score 62.331
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - No-gap fund participation not confirmed
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult not confirmed
+      - 13.0 km from patient postcode
+      - Consults in the private sector
+ 7. Alice Aldergrove  [MED1000000000]  score 58.195
+      - Listed on practice website (from practice website)
+      - No-gap with HCF — from fund directory
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 5.3 km from patient postcode
+      - Consults in the private sector
+ 8. Xavier Oakhampton-Ashby  [MED1000005343]  score 56.706
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 16.2 km from patient postcode
+      - Consults in the private sector
+ 9. Mira Quillfeather-Ashby  [MED1000005617]  score 56.011
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 17.2 km from patient postcode
+      - Consults in the private sector
+10. Bernard Stanhope  [MED1000002466]  score 54.850
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.0 km from patient postcode
+      - Consults in the private sector
+11. Clara Lampeter  [MED1000001507]  score 53.116
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 7.2 km from patient postcode
+      - Consults in the private sector
+12. Jonas Marchbanks-Ashby  [MED1000005069]  score 50.778
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.7 km from patient postcode
+      - Consults in the private sector
+      - Public clinic wait at Fitzroy North Public Hospital 9 months — published department figure, not this surgeon's own, last updated 4 weeks ago
+13. Ingrid Thackeray-Ashby  [MED1000006028]  score 47.179
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 16.1 km from patient postcode
+      - Consults in the private sector
+14. Yusuf Harkaway-Ashby  [MED1000004384]  score 45.520
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - No-gap fund participation not confirmed
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 20.8 km from patient postcode
+      - Consults in the private sector
+15. Keiko Fairweather-Ashby  [MED1000004110]  score 45.060
+      - Listed on practice website (from practice website)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 12 days — from booking platform, last updated 2 weeks ago
+      - 24.3 km from patient postcode
+      - Consults in the private sector
+16. Priya Underhill-Ashby  [MED1000006165]  score 43.890
+      - Listed on practice website (from practice website)
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.4 km from patient postcode
+      - Consults in the private sector
+17. Verity Dunmore-Ashby  [MED1000003836]  score 42.872
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 0.9 km from patient postcode
+      - Consults in the private sector
+18. Ulrich Kestrelton  [MED1000001370]  score 41.439
+      - No sub-specialty confirmed
+      - No-gap with HCF — from fund directory
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.5 km from patient postcode
+      - Consults in the private sector
+19. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 38.599
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 11.0 km from patient postcode
+      - Consults in the private sector
+20. Rosalind Gainsborough-Ashby  [MED1000004247]  score 35.999
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 11.3 km from patient postcode
+      - Consults in the private sector
+      - Public clinic wait at Werribee Plains Public Hospital 7 months — published department figure, not this surgeon's own, last updated 6 weeks ago
+21. Greta Ingleby-Ashby  [MED1000004521]  score 34.988
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 12.8 km from patient postcode
+      - Consults in the private sector
+      - Public clinic wait at Cardinia Public Hospital 8 months — published department figure, not this surgeon's own, last updated 6 days ago
+22. Ulrich Kestrelton-Ashby  [MED1000004795]  score 34.500
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.5 km from patient postcode
+      - Consults in the private sector
+23. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 34.258
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.9 km from patient postcode
+      - Consults in the private sector
+24. Priya Underhill  [MED1000002740]  score 32.812
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 16.0 km from patient postcode
+      - Consults in the private sector
+25. Keiko Fairweather  [MED1000000685]  score 32.291
+      - No sub-specialty confirmed
+      - No-gap with HCF not listed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 6.7 km from patient postcode
+      - Consults in the private sector
+26. Sunil Zephyrhill-Ashby  [MED1000006713]  score 32.129
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 23.4 km from patient postcode
+      - Consults in the private sector
+27. Desmond Ellingham-Ashby  [MED1000003973]  score 28.503
+      - No sub-specialty confirmed
+      - No-gap fund participation not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 22.5 km from patient postcode
+      - Consults in the private sector

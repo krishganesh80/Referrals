@@ -1,0 +1,92 @@
+criteria: {"region":"knee","category":"sports_soft_tissue","payer":null,"postcode":"9999","maxTravelKm":25,"sector":"either","fund":null}
+origin:   not in gazetteer — distance not ranked
+results:  22 of 50
+
+ 1. Yusuf Harkaway-Ashby  [MED1000004384]  score 46.750
+      - Australian Knee Society member (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+ 2. Ulrich Kestrelton-Ashby  [MED1000004795]  score 42.250
+      - Australian Knee Society member (verified)
+      - Books closed — confirmed 2 weeks ago
+      - Wait to consult not confirmed
+ 3. Keiko Fairweather  [MED1000000685]  score 38.833
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Books open — confirmed 5 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 weeks ago
+ 4. Orla Cadwallader  [MED1000000274]  score 37.633
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult 6 weeks — from booking platform, last updated 2 months ago
+ 5. Clara Lampeter-Ashby  [MED1000004932]  score 36.900
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult 8 weeks — from booking platform, last updated 4 weeks ago
+ 6. Rosalind Gainsborough-Ashby  [MED1000004247]  score 29.933
+      - 9 ligament reconstruction publications indexed since registration (inferred)
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 6 weeks ago
+ 7. Mira Quillfeather-Ashby  [MED1000005617]  score 25.750
+      - Listed on practice website (from practice website)
+      - Books-open status not confirmed
+      - Wait to consult 6 weeks — from booking platform, last updated 3 weeks ago
+ 8. Sunil Zephyrhill  [MED1000003288]  score 21.000
+      - No sub-specialty confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 7 weeks — from booking platform, last updated 3 weeks ago
+ 9. Desmond Ellingham  [MED1000000548]  score 20.417
+      - No sub-specialty confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+10. Alice Aldergrove  [MED1000000000]  score 18.400
+      - Listed on practice website (from practice website)
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 8 weeks — from booking platform, last updated 2 months ago
+11. Orla Cadwallader-Ashby  [MED1000003699]  score 16.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 5 weeks — from booking platform, last updated 7 days ago
+12. Bernard Stanhope-Ashby  [MED1000005891]  score 15.250
+      - No sub-specialty confirmed
+      - Books open — confirmed 9 days ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+13. Priya Underhill  [MED1000002740]  score 13.917
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 7 days ago
+14. Farrukh Pemberley  [MED1000002055]  score 13.867
+      - No sub-specialty confirmed
+      - Books open — confirmed 7 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 2 months ago
+15. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 13.417
+      - No sub-specialty confirmed
+      - Books open — confirmed 6 weeks ago
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+16. Jonas Marchbanks-Ashby  [MED1000005069]  score 13.333
+      - No sub-specialty confirmed
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 5 weeks ago
+17. Ulrich Kestrelton  [MED1000001370]  score 12.667
+      - No sub-specialty confirmed
+      - Books closed — confirmed today
+      - Wait to consult 4 weeks — from booking platform, last updated 3 weeks ago
+18. Greta Ingleby  [MED1000001096]  score 12.033
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 10 weeks — from booking platform, last updated 5 weeks ago
+19. Hamish Bramwell-Ashby  [MED1000003562]  score 9.917
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 4 months — from booking platform, last updated 3 weeks ago
+20. Quentin Netherfield-Ashby  [MED1000005206]  score 8.250
+      - No sub-specialty confirmed
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+21. Xavier Oakhampton  [MED1000001918]  score 6.750
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+22. Elena Wintersgill  [MED1000003014]  score 5.400
+      - No sub-specialty confirmed
+      - Books closed — confirmed 4 weeks ago
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago

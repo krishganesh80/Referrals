@@ -1,0 +1,168 @@
+criteria: {"region":"hip","category":"trauma_fracture","payer":null,"postcode":"3030","maxTravelKm":60,"sector":"public","fund":null}
+origin:   -37.9, 144.6614
+results:  27 of 50
+
+ 1. Tamsin Ravensmoor-Ashby  [MED1000005754]  score 75.258
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult not confirmed
+      - 15.0 km from patient postcode
+      - Consults in the public sector
+      - Public clinic wait at Fitzroy North Public Hospital 10 months — published department figure, not this surgeon's own, last updated 5 weeks ago
+ 2. Bernard Stanhope  [MED1000002466]  score 71.998
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 14.3 km from patient postcode
+      - Consults in the public sector
+ 3. Mira Quillfeather-Ashby  [MED1000005617]  score 69.805
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 20.8 km from patient postcode
+      - Consults in the public sector
+ 4. Xavier Oakhampton-Ashby  [MED1000005343]  score 63.675
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 9.2 km from patient postcode
+      - No public-sector location listed
+ 5. Orla Cadwallader-Ashby  [MED1000003699]  score 61.711
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.1 km from patient postcode
+      - No public-sector location listed
+ 6. Verity Dunmore  [MED1000000411]  score 59.682
+      - Arthroplasty Society of Australia member (verified)
+      - Books-open status not confirmed
+      - Wait to consult 12 weeks — from booking platform, last updated 5 weeks ago
+      - 15.9 km from patient postcode
+      - Consults in the public sector
+      - Public clinic wait at Werribee Plains Public Hospital 5 months — published department figure, not this surgeon's own, last updated 3 months ago
+ 7. Clara Lampeter  [MED1000001507]  score 52.192
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 25.7 km from patient postcode
+      - Consults in the public sector
+ 8. Jonas Marchbanks-Ashby  [MED1000005069]  score 51.666
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 27.3 km from patient postcode
+      - Consults in the public sector
+ 9. Alice Aldergrove-Ashby  [MED1000003425]  score 49.685
+      - Arthroplasty Society of Australia member (verified)
+      - Books-open status not confirmed
+      - Wait to consult 11 days — from booking platform, last updated 5 weeks ago
+      - 30.2 km from patient postcode
+      - No public-sector location listed
+10. Yusuf Harkaway-Ashby  [MED1000004384]  score 48.710
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 10.6 km from patient postcode
+      - No public-sector location listed
+11. Ingrid Thackeray-Ashby  [MED1000006028]  score 43.339
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 22.2 km from patient postcode
+      - No public-sector location listed
+12. Keiko Fairweather-Ashby  [MED1000004110]  score 42.500
+      - Listed on practice website (from practice website)
+      - Books-open status not confirmed
+      - Wait to consult 12 days — from booking platform, last updated 2 weeks ago
+      - 18.0 km from patient postcode
+      - No public-sector location listed
+13. Farrukh Pemberley  [MED1000002055]  score 39.091
+      - 12 arthroplasty publications indexed since registration (inferred)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 36.2 km from patient postcode
+      - Consults in the public sector
+14. Nikolai Jarrowfield  [MED1000001233]  score 37.959
+      - 12 arthroplasty publications indexed since registration (inferred)
+      - Books open — confirmed today
+      - Wait to consult not confirmed
+      - 26.1 km from patient postcode
+      - No public-sector location listed
+15. Priya Underhill  [MED1000002740]  score 31.281
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 16.4 km from patient postcode
+      - Consults in the public sector
+16. Desmond Ellingham-Ashby  [MED1000003973]  score 30.996
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 17.3 km from patient postcode
+      - Consults in the public sector
+17. Rosalind Gainsborough-Ashby  [MED1000004247]  score 30.681
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 18.2 km from patient postcode
+      - Consults in the public sector
+18. Greta Ingleby-Ashby  [MED1000004521]  score 29.419
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 22.0 km from patient postcode
+      - Consults in the public sector
+19. Priya Underhill-Ashby  [MED1000006165]  score 27.584
+      - Listed on practice website (from practice website)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 27.5 km from patient postcode
+      - No public-sector location listed
+20. Verity Dunmore-Ashby  [MED1000003836]  score 26.065
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 32.1 km from patient postcode
+      - Consults in the public sector
+21. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 26.035
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 32.1 km from patient postcode
+      - Consults in the public sector
+22. Keiko Fairweather  [MED1000000685]  score 24.816
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 35.8 km from patient postcode
+      - Consults in the public sector
+23. Alice Aldergrove  [MED1000000000]  score 23.662
+      - Listed on practice website (from practice website)
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 27.3 km from patient postcode
+      - No public-sector location listed
+24. Ulrich Kestrelton  [MED1000001370]  score 20.216
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.6 km from patient postcode
+      - No public-sector location listed
+25. Ulrich Kestrelton-Ashby  [MED1000004795]  score 19.508
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 21.7 km from patient postcode
+      - No public-sector location listed
+26. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 19.213
+      - No sub-specialty confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 29.9 km from patient postcode
+      - No public-sector location listed
+27. Sunil Zephyrhill-Ashby  [MED1000006713]  score 16.789
+      - No sub-specialty confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 42.6 km from patient postcode
+      - No public-sector location listed

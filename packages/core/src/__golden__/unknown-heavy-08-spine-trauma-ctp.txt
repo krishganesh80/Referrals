@@ -1,0 +1,149 @@
+criteria: {"region":"spine","category":"trauma_fracture","payer":"ctp","postcode":"3000","maxTravelKm":60,"sector":"either","fund":null}
+origin:   -37.8136, 144.9631
+results:  24 of 50
+
+ 1. Ingrid Thackeray  [MED1000002603]  score 74.146
+      - Spine Society of Australia member (verified)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 11.6 km from patient postcode
+ 2. Tamsin Ravensmoor-Ashby  [MED1000005754]  score 63.359
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - CTP status not confirmed
+      - Books open — confirmed 4 weeks ago
+      - Wait to consult not confirmed
+      - 6.4 km from patient postcode
+ 3. Orla Cadwallader-Ashby  [MED1000003699]  score 59.136
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.6 km from patient postcode
+ 4. Quentin Netherfield-Ashby  [MED1000005206]  score 57.848
+      - 11 spine publications indexed since registration (inferred)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 12.5 km from patient postcode
+ 5. Bernard Stanhope  [MED1000002466]  score 56.427
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 16.7 km from patient postcode
+ 6. Mira Quillfeather-Ashby  [MED1000005617]  score 55.901
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 18.3 km from patient postcode
+ 7. Xavier Oakhampton-Ashby  [MED1000005343]  score 55.740
+      - Limb reconstruction fellowship, hospital credentialing record (verified)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 18.8 km from patient postcode
+ 8. Clara Lampeter  [MED1000001507]  score 49.635
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.3 km from patient postcode
+ 9. Ingrid Thackeray-Ashby  [MED1000006028]  score 49.483
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.8 km from patient postcode
+10. Jonas Marchbanks-Ashby  [MED1000005069]  score 49.448
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.9 km from patient postcode
+      - Public clinic wait at Fitzroy North Public Hospital 9 months — published department figure, not this surgeon's own, last updated 4 weeks ago
+11. Yusuf Harkaway-Ashby  [MED1000004384]  score 48.747
+      - Credentialed for trauma at a listed public hospital (inferred)
+      - CTP status not confirmed
+      - Books open — confirmed 2 months ago
+      - Wait to consult not confirmed
+      - 15.5 km from patient postcode
+12. Keiko Fairweather-Ashby  [MED1000004110]  score 48.306
+      - Listed on practice website (from practice website)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 12 days — from booking platform, last updated 2 weeks ago
+      - 22.3 km from patient postcode
+13. Wilhelmina Vasterling-Ashby  [MED1000006302]  score 41.523
+      - Listed on practice website (from practice website)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.4 km from patient postcode
+14. Priya Underhill-Ashby  [MED1000006165]  score 39.908
+      - Listed on practice website (from practice website)
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 12.3 km from patient postcode
+15. Sunil Zephyrhill-Ashby  [MED1000006713]  score 35.863
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult 3 months — from booking platform, last updated 4 weeks ago
+      - 19.2 km from patient postcode
+16. Ulrich Kestrelton-Ashby  [MED1000004795]  score 35.694
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 6.9 km from patient postcode
+17. Keiko Fairweather  [MED1000000685]  score 35.421
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 7.7 km from patient postcode
+18. Verity Dunmore-Ashby  [MED1000003836]  score 35.299
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 8.1 km from patient postcode
+19. Lachlan Yarrowmede-Ashby  [MED1000006576]  score 35.089
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books closed — confirmed 2 months ago
+      - Wait to consult 10 weeks — from booking platform, last updated 3 weeks ago
+      - 16.0 km from patient postcode
+20. Rosalind Gainsborough-Ashby  [MED1000004247]  score 34.658
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.0 km from patient postcode
+21. Greta Ingleby-Ashby  [MED1000004521]  score 34.616
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 10.2 km from patient postcode
+22. Ulrich Kestrelton  [MED1000001370]  score 33.631
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 13.1 km from patient postcode
+23. Desmond Ellingham-Ashby  [MED1000003973]  score 32.818
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 15.5 km from patient postcode
+24. Nikolai Jarrowfield-Ashby  [MED1000004658]  score 31.523
+      - No sub-specialty confirmed
+      - CTP status not confirmed
+      - Books-open status not confirmed
+      - Wait to consult not confirmed
+      - 19.4 km from patient postcode
