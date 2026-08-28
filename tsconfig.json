@@ -16,5 +16,6 @@
       "@referral/signals/*": ["packages/signals/src/*"]
     }
   },
-  "include": ["packages/*/src/**/*.ts", "tools/**/*.ts", "vitest.config.ts"]
+  "include": ["packages/*/src/**/*.ts", "tools/**/*.ts", "vitest.config.ts"],
+  "exclude": ["packages/web/**"]
 }
