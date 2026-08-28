@@ -35,11 +35,11 @@ egress from the client is a bug.
 packages/
   core       schema (zod), taxonomy, freshness model, matcher.  Zero I/O. Node + browser.
   ingest     identity source adapters, legal gate, reconciliation, review queue.
-  access     access-data subsystem: collectors, call queue, verification CLI.   (not yet built)
-  bundle     compiles the working DB into a compact signed bundle artifact.     (not yet built)
-  signals    referral outcome aggregation. Separate deploy.                     (not yet built)
-  portal     specialist self-serve app + API. Holds specialist PII. Separate deploy.  (not yet built)
-  web        Vite + React PWA. Downloads the bundle, matches locally.
+  access     access-data subsystem: collectors, call queue, verification CLI.
+  bundle     compiles the working DB into a compact signed bundle artifact.
+  signals    referral outcome aggregation. Separate deploy.
+  portal     specialist self-serve app + API. Holds specialist PII. Separate deploy.
+  web        Vite + React PWA. Matches locally.
 data/
   raw        gitignored, per-source snapshots with fetch timestamps
   reviewed   committed, human-adjudicated corrections as JSON patches
@@ -51,7 +51,9 @@ through an export step with human review, never a live join.
 
 ## Status
 
-`core` and `ingest` are implemented and tested. **No real surgeon data has been ingested — not a
+All seven packages have their domain logic implemented and tested. `portal`, `signals` and `web`
+still need their deployments; `bundle` is not yet wired into the client, which reads fixtures
+directly. **No real surgeon data has been ingested — not a
 single page has been fetched.** All six identity adapters ship with `legalStatus: 'needs-review'`
 and the runner refuses to execute any batch containing one, so clearing a source is a deliberate
 human act after its terms of use have been read.
@@ -64,9 +66,15 @@ production, and plausible-looking fake data would eventually be mistaken for the
 
 ```bash
 pnpm install
-pnpm verify                              # typecheck + 208 tests
+pnpm verify                              # typecheck + the unit suite
+pnpm e2e                                 # Playwright, including the network-egress test
 pnpm --filter @referral/web dev          # http://localhost:3400
+pnpm access:verify                       # the phone verification CLI
+pnpm ingest                              # run every cleared identity adapter
 ```
+
+`pnpm access` is a pnpm builtin (npm registry access control) and shadows a script of that name,
+which is why the CLI is `access:verify`.
 
 ## Data model, in one paragraph
 

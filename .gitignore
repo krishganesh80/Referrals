@@ -12,3 +12,5 @@ dist/
 # lint. Never commit them.
 * [0-9].*
 * [0-9][0-9].*
+/packages/web/test-results/
+/packages/web/playwright-report/

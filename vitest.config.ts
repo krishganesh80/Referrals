@@ -12,6 +12,7 @@ export default defineConfig({
       "@referral/ingest": pkg("ingest"),
       "@referral/bundle": pkg("bundle"),
       "@referral/signals": pkg("signals"),
+      "@referral/portal": pkg("portal"),
     },
   },
   test: {

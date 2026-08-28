@@ -8,7 +8,8 @@
     "test": "vitest run",
     "verify": "pnpm typecheck && pnpm test",
     "ingest": "tsx packages/ingest/src/cli/run.ts",
-    "access:verify": "tsx packages/access/src/cli/verify.ts"
+    "access:verify": "tsx packages/access/src/cli/verify.ts",
+    "e2e": "pnpm --filter @referral/web exec playwright test"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",
