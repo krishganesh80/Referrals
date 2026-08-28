@@ -19,6 +19,7 @@ import {
   SUBSPECIALTY_COPY,
   ANATOMICAL_REGIONS,
   displayName,
+  groupIntoBands,
   makeFixtureSurgeons,
   rankByCriteria,
   type AnatomicalRegion,
@@ -60,6 +61,9 @@ export function App() {
     () => rankByCriteria(SURGEONS, criteria, origin ? { origin } : {}, NOW),
     [criteria, origin],
   );
+  // Grouped for display. The scores are untouched; what changes is that records the data cannot
+  // actually separate are no longer printed one above the other as though it could.
+  const bands = useMemo(() => groupIntoBands(results), [results]);
 
   return (
     <div className="shell">
@@ -220,10 +224,11 @@ export function App() {
               do not appear there.
             </p>
             <p className="page-order">
-              Ordered by how closely each record matches your criteria and how recently it was
-              confirmed. That is a statement about the record, not about the surgeon: it is not a
-              measure of skill, outcomes or standing, and a surgeon further down may be the right
-              referral.
+              Grouped by how closely each record matches your criteria and how recently it was
+              confirmed &mdash; a statement about the record, not about the surgeon. It is not a
+              measure of skill, outcomes or standing.{" "}
+              <strong>Within a group, surgeons are listed alphabetically.</strong> The tool does not
+              order them, because the data cannot separate them.
             </p>
           </div>
           <div className="count">
@@ -250,8 +255,18 @@ export function App() {
             </ul>
           </div>
         ) : (
-          <div className="cards">
-            {results.map((result) => (
+          <div className="bands">
+            {bands.map((band) => (
+              <section className="band" key={band.key}>
+                <header className="band-head">
+                  <h2 className="band-label">{band.label}</h2>
+                  <span className="band-count">
+                    {band.results.length} {band.results.length === 1 ? "surgeon" : "surgeons"} ·
+                    listed A&ndash;Z
+                  </span>
+                </header>
+                <div className="cards">
+                  {band.results.map((result) => (
               <article className="card" key={result.surgeon.ahpraId}>
                 <div className="card-head">
                   <div className="who">
@@ -333,6 +348,9 @@ export function App() {
                   ))}
                 </ul>
               </article>
+                  ))}
+                </div>
+              </section>
             ))}
           </div>
         )}

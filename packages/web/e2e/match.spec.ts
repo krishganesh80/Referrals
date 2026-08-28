@@ -97,7 +97,34 @@ test("no position number appears beside any clinician's name", async ({ page }) 
 
 test("the ordering says what it is, and what it is not", async ({ page }) => {
   await expect(page.locator(".page-order")).toContainText("not a measure of skill");
+  await expect(page.locator(".page-order")).toContainText("listed alphabetically");
   await expect(page.locator(".footer")).toContainText("does not rate or compare surgeons");
+});
+
+test("results are grouped, and each group says its order is alphabetical", async ({ page }) => {
+  const heads = page.locator(".band-head");
+  expect(await heads.count()).toBeGreaterThan(0);
+  for (const text of await page.locator(".band-count").allInnerTexts()) {
+    expect(text).toContain("A\u2013Z");
+  }
+});
+
+test("within a group, surgeons are in alphabetical order by family name", async ({ page }) => {
+  const bands = page.locator(".band");
+  for (let i = 0; i < (await bands.count()); i++) {
+    const names = await bands.nth(i).locator(".card .name").allInnerTexts();
+    // Rendered as "Given Family", so compare on the last token.
+    const families = names.map((n) => n.trim().split(/\s+/).slice(-1)[0]!.toLowerCase());
+    expect(families, `group ${i} is not alphabetical`).toEqual([...families].sort());
+  }
+});
+
+test("the highest-scoring record is not guaranteed to be first on the page", async ({ page }) => {
+  // Nothing on screen exposes a score, and the first card is whoever sorts first alphabetically
+  // inside the closest-matching group. This asserts the page never advertises a top result.
+  await expect(page.locator(".rank")).toHaveCount(0);
+  await expect(page.getByText(/best match/i)).toHaveCount(0);
+  await expect(page.getByText(/top (result|match)/i)).toHaveCount(0);
 });
 
 test("the reasons block does not claim the position means anything", async ({ page }) => {
