@@ -333,3 +333,32 @@ export function displayName(surgeon: Surgeon): string {
   const given = surgeon.preferredName ?? surgeon.givenNames.split(" ")[0] ?? surgeon.givenNames;
   return `${given} ${surgeon.familyName}`;
 }
+
+/**
+ * An AccessRecord in which every field is unconfirmed. Used when a record first enters the
+ * system from an identity source: identity sources say who somebody is, never who they accept
+ * or how long their wait is, so a new record starts honest about knowing neither.
+ *
+ * The date is the day the record was created — an unconfirmed field still has to say when
+ * somebody last looked, or its staleness is unanswerable.
+ */
+export function unknownAccessRecord(confirmedAt: IsoDate): AccessRecord {
+  const field = <T,>(): AccessField<T> => ({
+    value: "unknown",
+    tier: "A",
+    source: "phone",
+    confirmedAt,
+  });
+  return {
+    workcover: field<Tri>(),
+    tac: field<Tri>(),
+    ctp: field<Tri>(),
+    dva: field<Tri>(),
+    comcare: field<Tri>(),
+    noGapFunds: field<string[]>(),
+    bulkBillsInitial: field<Tri>(),
+    booksOpen: field<Tri>(),
+    waitToConsultDays: field<number>(),
+    waitToSurgeryDays: field<number>(),
+  };
+}
