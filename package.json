@@ -1,0 +1,18 @@
+{
+  "name": "referral-support",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@10.34.5",
+  "scripts": {
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run",
+    "verify": "pnpm typecheck && pnpm test",
+    "access": "tsx packages/access/src/cli/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^3.0.5"
+  }
+}

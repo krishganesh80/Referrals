@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+*.tsbuildinfo
+
+# Per-source snapshots are large, re-fetchable, and may carry terms-of-use
+# constraints. Only the human-adjudicated corrections in /data/reviewed are committed.
+/data/raw/

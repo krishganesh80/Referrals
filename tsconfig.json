@@ -1,0 +1,20 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "types": ["node"],
+    "baseUrl": ".",
+    "paths": {
+      "@referral/core": ["packages/core/src/index.ts"],
+      "@referral/core/*": ["packages/core/src/*"],
+      "@referral/access": ["packages/access/src/index.ts"],
+      "@referral/access/*": ["packages/access/src/*"],
+      "@referral/ingest": ["packages/ingest/src/index.ts"],
+      "@referral/ingest/*": ["packages/ingest/src/*"],
+      "@referral/bundle": ["packages/bundle/src/index.ts"],
+      "@referral/bundle/*": ["packages/bundle/src/*"],
+      "@referral/signals": ["packages/signals/src/index.ts"],
+      "@referral/signals/*": ["packages/signals/src/*"]
+    }
+  },
+  "include": ["packages/*/src/**/*.ts", "tools/**/*.ts", "vitest.config.ts"]
+}
