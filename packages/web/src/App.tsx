@@ -39,16 +39,18 @@ const TIER_TITLE: Record<string, string> = {
   S: "Self-reported by the practice through our portal",
 };
 
+const DEFAULT_CRITERIA: Criteria = {
+  region: "knee",
+  category: "sports_soft_tissue",
+  payer: "workcover",
+  postcode: "3000",
+  maxTravelKm: 25,
+  sector: "either",
+  fund: null,
+};
+
 export function App() {
-  const [criteria, setCriteria] = useState<Criteria>({
-    region: "knee",
-    category: "sports_soft_tissue",
-    payer: "workcover",
-    postcode: "3000",
-    maxTravelKm: 25,
-    sector: "either",
-    fund: null,
-  });
+  const [criteria, setCriteria] = useState<Criteria>(DEFAULT_CRITERIA);
 
   const set = <K extends keyof Criteria>(key: K, value: Criteria[K]) =>
     setCriteria((c) => ({ ...c, [key]: value }));
@@ -62,12 +64,17 @@ export function App() {
   return (
     <div className="shell">
       <aside className="sidebar">
-        <div className="brand">
-          <div className="brand-mark">R</div>
-          <div>
-            <div className="brand-name">Referral support</div>
-            <div className="brand-sub">Orthopaedic surgery · VIC</div>
+        <div className="sidebar-head">
+          <div className="brand">
+            <div className="brand-mark">R</div>
+            <div>
+              <div className="brand-name">Referral support</div>
+              <div className="brand-sub">Orthopaedic surgery · VIC</div>
+            </div>
           </div>
+          <button type="button" className="reset" onClick={() => setCriteria(DEFAULT_CRITERIA)}>
+            Reset
+          </button>
         </div>
 
         <div className="field">
@@ -166,9 +173,10 @@ export function App() {
             onChange={(e) => set("postcode", e.target.value.replace(/\D/g, "").slice(0, 4))}
           />
           {!origin && (
-            <div className="range-row">
-              <span>Postcode not in the fixture gazetteer — distance not ranked.</span>
-            </div>
+            <p className="hint">
+              This postcode is not in the development gazetteer, so distance is not ranked and no
+              travel limit is applied. Everything else still filters.
+            </p>
           )}
         </div>
 
@@ -188,6 +196,18 @@ export function App() {
             <span>150 km</span>
           </div>
         </div>
+
+        <div className="legend">
+          <span className="label">What the badges mean</span>
+          <dl>
+            {(["A", "B", "S", "C"] as const).map((tier) => (
+              <div className="legend-row" key={tier}>
+                <dt><span className={`tier tier-${tier}`}>{tier}</span></dt>
+                <dd>{TIER_TITLE[tier]}</dd>
+              </div>
+            ))}
+          </dl>
+        </div>
       </aside>
 
       <main className="main">
@@ -195,12 +215,13 @@ export function App() {
           <div>
             <h1 className="page-title">Surgeons matching your criteria</h1>
             <p className="page-sub">
-              Filtered and ranked on the criteria selected on the left. Every factor that moved a
-              surgeon's position is listed under their entry.
+              Filtered and ranked on the criteria selected on the left, in this browser. Every
+              factor that moved a surgeon's position is listed under their entry — there are no
+              weights that do not appear there.
             </p>
           </div>
           <div className="count">
-            {results.length} of {SURGEONS.length}
+            <b>{results.length}</b> of {SURGEONS.length} surgeons match
           </div>
         </div>
 
@@ -213,9 +234,14 @@ export function App() {
 
         {results.length === 0 ? (
           <div className="empty">
-            No surgeon in the directory matches these criteria.
-            <br />
-            Widen the travel radius, or set the payer to Any.
+            <h3>No surgeon matches these criteria</h3>
+            Nobody in the directory clears every filter you have set.
+            <ul>
+              <li>Widen the travel radius beyond {criteria.maxTravelKm} km</li>
+              {criteria.payer !== null && <li>Set the payer to Any — a recorded refusal excludes a surgeon</li>}
+              {criteria.sector !== "either" && <li>Set the sector to Any</li>}
+              <li>Try a broader category, or the region &ldquo;Not region-specific&rdquo;</li>
+            </ul>
           </div>
         ) : (
           <div className="cards">
@@ -272,12 +298,26 @@ export function App() {
                     <div className="block-label">Payers &amp; funds</div>
                     <div className="facts">
                       {PAYER_KEYS.map((p) => (
-                        <Fact key={p} recordKey={p} record={result.surgeon.access} now={NOW} />
+                        <Fact
+                          key={p}
+                          recordKey={p}
+                          record={result.surgeon.access}
+                          now={NOW}
+                          selected={criteria.payer === p}
+                        />
                       ))}
                       <Fact recordKey="noGapFunds" record={result.surgeon.access} now={NOW} />
                     </div>
                   </div>
                 </div>
+
+                {result.nearestLocation?.departmentWait && (
+                  <div className="dept-wait">
+                    <b>{result.nearestLocation.name}</b> publishes a public clinic waiting time.
+                    That figure describes the hospital department, not this surgeon, and does not
+                    affect their position in this list.
+                  </div>
+                )}
 
                 <div className="divider" />
 

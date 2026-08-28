@@ -6,3 +6,9 @@ dist/
 # Per-source snapshots are large, re-fetchable, and may carry terms-of-use
 # constraints. Only the human-adjudicated corrections in /data/reviewed are committed.
 /data/raw/
+
+# A file-sync agent on this machine periodically drops numbered duplicates next to real files
+# ("language.test 2.ts"). They break typecheck with duplicate identifiers and trip the language
+# lint. Never commit them.
+* [0-9].*
+* [0-9][0-9].*
