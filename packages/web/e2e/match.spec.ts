@@ -85,3 +85,22 @@ test("the same criteria always produce the same order", async ({ page }) => {
   await expect(page.locator(".card").first()).toBeVisible();
   expect(await page.locator(".card .name").allInnerTexts()).toEqual(first);
 });
+
+test("no position number appears beside any clinician's name", async ({ page }) => {
+  // A numbered badge reads as a score for the person. The list is ordered; the order is a
+  // statement about the record's match and freshness, and nothing on screen may imply otherwise.
+  await expect(page.locator(".rank")).toHaveCount(0);
+  for (const name of await page.locator(".card .name").allInnerTexts()) {
+    expect(name.trim()).not.toMatch(/^\d+[.)]?\s/);
+  }
+});
+
+test("the ordering says what it is, and what it is not", async ({ page }) => {
+  await expect(page.locator(".page-order")).toContainText("not a measure of skill");
+  await expect(page.locator(".footer")).toContainText("does not rate or compare surgeons");
+});
+
+test("the reasons block does not claim the position means anything", async ({ page }) => {
+  await expect(page.locator(".block-label").filter({ hasText: /how this surgeon matches/i }).first()).toBeVisible();
+  await expect(page.getByText("Why this position")).toHaveCount(0);
+});

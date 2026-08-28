@@ -215,9 +215,15 @@ export function App() {
           <div>
             <h1 className="page-title">Surgeons matching your criteria</h1>
             <p className="page-sub">
-              Filtered and ranked on the criteria selected on the left, in this browser. Every
-              factor that moved a surgeon's position is listed under their entry — there are no
-              weights that do not appear there.
+              Everyone below matches the criteria selected on the left, filtered in this browser.
+              Each entry lists every factor that placed it where it is — there are no weights that
+              do not appear there.
+            </p>
+            <p className="page-order">
+              Ordered by how closely each record matches your criteria and how recently it was
+              confirmed. That is a statement about the record, not about the surgeon: it is not a
+              measure of skill, outcomes or standing, and a surgeon further down may be the right
+              referral.
             </p>
           </div>
           <div className="count">
@@ -245,10 +251,9 @@ export function App() {
           </div>
         ) : (
           <div className="cards">
-            {results.map((result, index) => (
+            {results.map((result) => (
               <article className="card" key={result.surgeon.ahpraId}>
                 <div className="card-head">
-                  <div className="rank">{index + 1}</div>
                   <div className="who">
                     <div className="name">{displayName(result.surgeon)}</div>
                     <div className="sub">
@@ -321,7 +326,7 @@ export function App() {
 
                 <div className="divider" />
 
-                <div className="block-label">Why this position</div>
+                <div className="block-label">How this surgeon matches your criteria</div>
                 <ul className="reasons">
                   {result.reasons.map((reason) => (
                     <li key={reason}>{reason}</li>
@@ -333,8 +338,9 @@ export function App() {
         )}
 
         <footer className="footer">
-          This tool filters a directory according to criteria you select. It does not provide
-          clinical advice, and the referral decision remains yours.
+          This tool filters a directory according to criteria you select, and orders the results
+          by how well each record matches them. It does not rate or compare surgeons, does not
+          provide clinical advice, and the referral decision remains yours.
         </footer>
       </main>
     </div>

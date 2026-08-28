@@ -177,6 +177,11 @@ input[type="range"] { width: 100%; accent-color: var(--brand); }
 }
 .page-title { font-size: 22px; font-weight: 650; letter-spacing: -0.02em; margin: 0; }
 .page-sub { font-size: 13.5px; color: var(--ink-2); margin: 6px 0 0; max-width: 64ch; line-height: 1.55; }
+.page-order {
+  font-size: 12.5px; color: var(--ink-3); margin: 8px 0 0;
+  max-width: 68ch; line-height: 1.55;
+  padding-left: 11px; border-left: 2px solid var(--line);
+}
 .count { font-size: 13px; color: var(--ink-2); white-space: nowrap; }
 .count b { color: var(--ink); font-weight: 650; }
 
@@ -195,13 +200,10 @@ input[type="range"] { width: 100%; accent-color: var(--brand); }
   background: var(--surface); border: 1px solid var(--line);
   border-radius: 18px; box-shadow: var(--shadow); padding: 20px 22px;
 }
+/* No position marker beside the name. A numbered badge reads as a score for the person, which
+   is a claim this product does not make and could not support. The list is ordered; the order
+   is explained in words above it and belongs to the record, not to the surgeon. */
 .card-head { display: flex; gap: 14px; align-items: flex-start; }
-.rank {
-  flex: none; width: 30px; height: 30px; border-radius: 9px;
-  background: var(--brand-wash); color: var(--brand-ink);
-  display: grid; place-items: center; font-size: 13px; font-weight: 650;
-  font-variant-numeric: tabular-nums;
-}
 .who { flex: 1; min-width: 0; }
 .name { font-size: 16.5px; font-weight: 650; letter-spacing: -0.01em; }
 .sub { font-size: 12.5px; color: var(--ink-3); margin-top: 3px; line-height: 1.5; }
