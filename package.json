@@ -4,12 +4,12 @@
   "type": "module",
   "packageManager": "pnpm@10.34.5",
   "scripts": {
-    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "typecheck": "tsc -p tsconfig.json --noEmit && pnpm --filter @referral/journey typecheck",
     "test": "vitest run",
     "verify": "pnpm typecheck && pnpm test",
     "ingest": "tsx packages/ingest/src/cli/run.ts",
     "access:verify": "tsx packages/access/src/cli/verify.ts",
-    "e2e": "pnpm --filter @referral/web exec playwright test"
+    "e2e": "pnpm --filter @referral/web exec playwright test && pnpm --filter @referral/journey exec playwright test"
   },
   "devDependencies": {
     "@types/node": "^22.10.2",

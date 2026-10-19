@@ -14,3 +14,5 @@ dist/
 * [0-9][0-9].*
 /packages/web/test-results/
 /packages/web/playwright-report/
+/packages/journey/test-results/
+/packages/journey/playwright-report/

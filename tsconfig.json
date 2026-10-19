@@ -50,6 +50,7 @@
     "vitest.config.ts"
   ],
   "exclude": [
-    "packages/web/**"
+    "packages/web/**",
+    "packages/journey/**"
   ]
 }

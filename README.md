@@ -40,6 +40,8 @@ packages/
   signals    referral outcome aggregation. Separate deploy.
   portal     specialist self-serve app + API. Holds specialist PII. Separate deploy.
   web        Vite + React PWA. Matches locally.
+  journey    Wattle Health's ride: an optional, playful introduction to how a finder matches.
+             Demo data only; its own README says what it borrows and what it invents.
 data/
   raw        gitignored, per-source snapshots with fetch timestamps
   reviewed   committed, human-adjudicated corrections as JSON patches
